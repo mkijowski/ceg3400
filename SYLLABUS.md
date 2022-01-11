@@ -159,4 +159,3 @@ These topics will not necessarily be covered in order.
 * Risk Profile and Cyber Hygiene
 * Vulnerability Taxonomies and Assessment
 * Cyber Law & Economics
-
