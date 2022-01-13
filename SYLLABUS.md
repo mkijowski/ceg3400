@@ -127,7 +127,7 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Midterm Exam
-* Date: Thursday, March 3, 2022 (during class)
+* Date: Thursday, February 24, 2022 (during class)
 
 ### Final Exam
 * Date: Tuesday, April 26, 2022 8:00AM - 10:00AM
