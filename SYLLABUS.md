@@ -31,8 +31,8 @@
 * Resource Requirements:
   * Personal Computer (Required for remote attendance): Every student attending remotely is 
     required to have their own computer for this course (desktop or laptop).
-  * Textbook (Required) : Security+ Guide to Network Security Fundamentals, 6th Edition, 
-    Mark Ciampa, Cengage 2018
+  * Textbook (Required) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
+    Mark Ciampa, Cengage 2020 (6th edition may still be useful)
 
 ---
 
