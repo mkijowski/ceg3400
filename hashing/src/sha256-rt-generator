@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for i in $(seq -w $1 $2); do 
+    j=$(printf $i | sha256sum)
+    echo "$i, $j" >> ssn-sha256-rainbowtable
+done
+
+
