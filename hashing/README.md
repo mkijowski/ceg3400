@@ -52,18 +52,18 @@ Key tenets of a hash algorithm:
 
 # Class Exercise
 
-Bogus quiz results are in!
+## Bogus quiz results are in!
 
 But first, a pet peeve of mine...
 
-[Link to quiz result data](https://raw.githubusercontent.com/mkijowski/ceg3400/master/hashing/data/quiz-data.csv)
-`sha256sum : ec39ca84b1ddc4608a161ba8338846b51e5de14cc7f7b8057c61d7b3db8b65b9`
+[Link to quiz result data](https://raw.githubusercontent.com/mkijowski/ceg3400-spring/master/hashing/data/quiz-data.csv)
+`sha256sum : 7e320905f9480a0257abe1176da9b632322b9fc3f4135d6152e8c350d68f1179`
 
-do you trust the above
+## Do you trust the above?
 
 ---
 
-Follow along (in `bash`) for some data science fun:
+# Follow along (in `bash`) for some data science fun:
 
 What is the difference between the following:
 
@@ -80,7 +80,7 @@ Now about the quiz data, can we reverse our hash?
 
 ---
 
-What are some common (semi) unique identifiers for people?
+# What are some common (semi) unique identifiers for people?
 
 * campus W-number
 * campus UID
@@ -89,7 +89,7 @@ What are some common (semi) unique identifiers for people?
 
 ---
 
-### There is a quiz covering today's in class exercise and the homework!
+# There is a quiz covering today's in class exercise and the homework!
 
 Quiz is available till 11:59pm tonight!  One chance only this time!
 Take the quiz!
