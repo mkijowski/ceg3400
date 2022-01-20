@@ -173,6 +173,23 @@ task 2 == 50 points (15 points for coins)
 
 ---
 
+# Lab 1 continued
+
+* `data/` : folder containing data for use in this lab
+* `miner/` : folder for your mining code
+* `LAB1-INSTRUCTIONS.md` : mardown file containing lab instructions
+* `README.md` : markdown file for your answers and lab writeup.  This is the file I am grading (as well as other requested files)
+* `coins.txt` : file with your nonce/word combos, no hashes in this file please!
+
+---
+
+# Markdown Style
+
+* Answers/ responses should be on a new line and not require scrolling around the page (be carefull of code blocks).
+* Check the style guide in the course repository for more details!!
+
+---
+
 # Git
 
 [Anatomy of a git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)

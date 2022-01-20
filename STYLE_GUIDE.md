@@ -3,10 +3,10 @@
 [Follow this markdown cheat-sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * When in doubt ask or use your best judgment
-* Keep answers in-line as much as possible.
+* Move answers to a new line as much as possible.
 * Use back-tics (\`example\`) to highlight commands, arguments, and files/paths.
 * Use triple back-tics to highlight whole sections of code, multiple lines of output, or portions of a file.
-* [Write good commit messages](https://chris.beams.io/posts/git-commit/)
+* [Write good commit messages](https://chris.beams.io/posts/git-commit/), but I wont grade them...
 * Make it look good!
 * pro tip, make it look good both in text format and markdown format
 
@@ -87,3 +87,10 @@ drwxrwxr-x  2 mkijowski mkijowski 4.0K Sep 20 18:02 lab1
 
 Note: triple back-tics will not line wrap, so you should probably format that a little bit yourself...
 
+---
+
+Be careful when using code blocks, they should ***ONLY*** be used for code, and the code should be well spaced or else you get something that looks like this and is mostly unreadable, especially if the answer you are looking for is 42.
+
+```
+Be careful when using code blocks, they should ***ONLY*** be used for code, and the code should be well spaced or else you get something that looks like this and is mostly unreadable, especially if the answer you are looking for is 42.
+```
