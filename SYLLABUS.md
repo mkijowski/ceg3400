@@ -94,7 +94,9 @@ unable to attend and I will try to accommodate you.
 * All assignments will be submitted before the due date.  ***Late work will not be accepted.***
 * Assigned reading and viewing must be performed prior to class.
 * Quizzes are given at random.
-* All written assignments will be submitted via ***plain text*** documents in markdown format
+* All written assignments will be submitted via ***plain text*** documents in markdown format.
+* Students are permitted 3 unexcused 0's on graded assignments (Labs, quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
+* Failure to take the Midterm exam or Final exam will result in a 0 in this course.
 * Grading is left up to the instructor.  Students will receive no lower than the below, but the instructor will adjust these as necessary. 
   * A = 90 - 100
   * B = 80 - 89

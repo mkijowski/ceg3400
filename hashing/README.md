@@ -1,10 +1,19 @@
 # Hashing
 
-## Topics covered today
+## Topics covered hashing day 1
 
 * Homework and review
 * What is hashing
 * Class exercise
+
+## Topics covered day 2
+
+* Syllabus Change!!!
+* Attacks on Hashes
+* Salts and nonce
+* Key Stretching
+* Proof of work
+* Lab 1 discussion
 
 ---
 
@@ -97,6 +106,17 @@ Note: your grade might be low on this one, I may have broken the auto-grader...
 
 ---
 
+# Syllabus Change!
+
+## Addition to grading policies
+
+* Students are permitted 3 unexcused 0's on graded assignments (Labs, quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
+* Failure to take the Midterm exam or Final exam will result in a 0 in this course.
+
+What this means for you...
+
+---
+
 # Day 2 Hashing
 
 [Don't believe everything you read on the internet.](https://towardsdatascience.com/anonymizing-data-sets-c4602e581a35)
@@ -120,6 +140,16 @@ Both added to data prior to the hashing function to increase uniqueness.  Used f
 * Salts increase complexity and prevent several known attacks on hash values (dictionary and rainbow table attacks)
 * Nonce's are unique (number used only once) and are used to prevent replay attacks (cannot use same nonce) and in proof of work
 * These do not increase any guarantee of integrity!!
+
+---
+
+# Key stretching
+
+Suppose an attacker has the salts and hash values and can guess at the original data used...
+
+To make things harder for an attacker, we can simply apply the hashing algorithm to the output of the first.
+
+Do this multiple times to *stretch* (lengthen) the time it takes to attack the hash using common disctionary attacks.
 
 ---
 
