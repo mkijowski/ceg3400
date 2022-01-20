@@ -97,25 +97,57 @@ Note: your grade might be low on this one, I may have broken the auto-grader...
 
 ---
 
-[Ugh](https://towardsdatascience.com/anonymizing-data-sets-c4602e581a35)
+# Day 2 Hashing
 
-## Day 2 Hashing
+[Don't believe everything you read on the internet.](https://towardsdatascience.com/anonymizing-data-sets-c4602e581a35)
+
+---
+
+# Attacks on hashes 
+
+* Pass the hash: an authenticating system accepts hashes, and you have them
+* Dictionary attack: you have a dictionary of likely input data used to compute hashes
+* Rainbow table: you have a dictionary of pre-computed hashes and known input data
+* Collision: you guess/compute ***different*** data that computes to the same hash value
+* Brute force: hash everything
+
+---
+
+# Nonce and salt
+
+Both added to data prior to the hashing function to increase uniqueness.  Used for different reasons though.
+
+* Salts increase complexity and prevent several known attacks on hash values (dictionary and rainbow table attacks)
+* Nonce's are unique (number used only once) and are used to prevent replay attacks (cannot use same nonce) and in proof of work
+* These do not increase any guarantee of integrity!!
+
+---
+
+# Proof of Work
+
+Proof of an amount of work prior to participating.
+
+Created to reduce email spam.
+
+Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
+
+---
+
+# Lets talk lab 1
+
+10 commits == 10 points
+style == 10 points
+
+task 1 == 50 points (15 points for salted quiz data set)
+task 2 == 50 points (15 points for coins)
+
+---
+
+# Git
 
 [Anatomy of a git commit](https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html)
 
-### Nonce versus salt
-
-Apparently we did not cover nonces in homework
-
-Both have the same property, make it harder to brute force a hash by requiring much more computational power to create larger rainbow tables.
-
-This does not increase any guarantee of integrity!!
-
-Salts are intended to be public values that are stored alongside the hash.  They are used each time the hash is authenticated against.
-
-Nonces (numbers used only once) **can** be public but are not necessary to keep.  They are used only once to hash some data then not used again, even when hashing the same data.
-
-Lets do a real world test!
+---
 
 Linux password hashes are stored in `/etc/shadow`.  Lets make a new user and see if we can verify their hash!
 
