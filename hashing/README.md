@@ -165,11 +165,11 @@ Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
 
 # Lets talk lab 1
 
-10 commits == 10 points
-style == 10 points
+* 10 commits == 10 points
+* style == 10 points
 
-task 1 == 50 points (15 points for salted quiz data set)
-task 2 == 50 points (15 points for coins)
+* task 1 == 50 points (15 points for salted quiz data set)
+* task 2 == 50 points (15 points for coins)
 
 ---
 
