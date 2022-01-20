@@ -197,5 +197,3 @@ task 2 == 50 points (15 points for coins)
 ---
 
 Linux password hashes are stored in `/etc/shadow`.  Lets make a new user and see if we can verify their hash!
-
-

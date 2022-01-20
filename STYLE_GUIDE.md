@@ -72,7 +72,7 @@ Blue
 
 Files (especially paths) and commands can be surrounded by single back-tics  \`example\` -> `example`
 
-Triple back-tics `\`\`\` some code \`\`\`` allow for multi line code highlighting, useful for pasting the output of commands:
+Triple back-tic allow for multi line code highlighting, useful for pasting the output of commands (may need to view raw for this):
 ```
 mkijowski@pop-os:~/3400$ ls -lah
 total 232K
