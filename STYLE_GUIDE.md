@@ -37,7 +37,7 @@ The indentation before the answer allows it to be a part of the same bullet poin
 
 ---
 
-## Bad examples
+### Bad examples
 
 ```
 * What is your favorite food
@@ -68,9 +68,11 @@ Blue
 
 ---
 
+## Code highlighting
+
 Files (especially paths) and commands can be surrounded by single back-tics  \`example\` -> `example`
 
-Triple back-tics allow for multi line code highlighting, useful for pasting the output of commands:
+Triple back-tics `\`\`\` some code `\`\`\` allow for multi line code highlighting, useful for pasting the output of commands:
 ```
 mkijowski@pop-os:~/3400$ ls -lah
 total 232K
