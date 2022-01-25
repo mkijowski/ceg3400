@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="734" height="310" viewBox="0 0 734 310" version="1.1" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round">
+    <rect x="0" y="0" width="734" height="310" fill="#feffcb"/>
+    <g id="PublicKey" stroke="#000" stroke-width="4">
+        <path d="M245,164L226,164L226,250L217,259L202.5,244L202.5,240.5L206.5,236.625L202.5,232.75L206.5,228.875L206.5,225L202.5,221.125L202.5,217.25L206.5,213.375L202.5,209.5L210.5,201.75L202.5,194L206.5,190.125L206.5,186.25L210.5,182.375L202.5,174.625L202.5,164L185,164L185,122L245,122L245,164ZM234,141L234,131L215,131L215,141L234,141Z" fill="#ccc"/>
+        <rect x="192" y="142" width="15" height="11" fill="none" stroke="#000" stroke-width="3.33"/>
+        <path d="M203,141.5L203,139C203,137.068 201.432,135.5 199.5,135.5C197.568,135.5 196,137.068 196,139L196,141.5" fill="none" stroke="#f00" stroke-width="3.33"/>
+    </g>
+    <g id="PrivateKey" stroke="#000" stroke-width="4">
+        <path d="M558,164L539,164L539,250L530,259L515.5,244L515.5,240.5L519.5,236.625L515.5,232.75L519.5,228.875L519.5,225L515.5,221.125L515.5,217.25L519.5,213.375L515.5,209.5L523.5,201.75L515.5,194L519.5,190.125L519.5,186.25L523.5,182.375L515.5,174.625L515.5,164L498,164L498,122L558,122L558,164ZM547,141L547,131L528,131L528,141L547,141Z" fill="#ccc"/>
+        <path d="M527,164L527,175L531,179L531,185L527,189L531,193L531,198L535,202L531,206L531,210L535,214L528,221L531,224L531,229L535,233L531,237L531,241L534,244L534,250L537,252L539,250.004L539,164L527,164Z" fill="#808080"/>
+        <rect x="505.004" y="142" width="15" height="11" fill="none" stroke="#000" stroke-width="3.33"/>
+        <path d="M516.004,141.5L516.004,134C516.004,132.068 514.436,130.5 512.504,130.5C510.572,130.5 509.004,132.068 509.004,134L509.004,136.5" fill="none" stroke="#000" stroke-width="3.33"/>
+    </g>
+    <g id="Alice">
+        <rect x="22" y="101" width="151" height="183" fill="none" stroke="#000" stroke-width="4" stroke-dasharray="3,3"/>
+        <rect x="29" y="118" width="105" height="144" fill="#fff" stroke="#000" stroke-width="4"/>
+        <text id="Plaintext" x="40" y="167" font-family="Courier, monospace" font-weight="bold" font-size="24">Hello!</text>
+    </g>
+    <g id="Eve">
+        <rect x="312" y="23" width="105" height="144" fill="#fff" stroke="#000" stroke-width="4"/>
+        <g id="Ciphertext">
+            <text x="323" y="72" font-family="Courier, monospace" font-weight="bold" font-size="24">¤%&amp;=%&amp;</text>
+            <text x="323" y="96" font-family="Courier, monospace" font-weight="bold" font-size="24">#*(%=#</text>
+            <text x="323" y="120" font-family="Courier, monospace" font-weight="bold" font-size="24">%#¤?</text>
+        </g>
+    </g>
+    <g id="Bob">
+        <rect x="490" y="101" width="219" height="183" fill="none" stroke="#000" stroke-width="4" stroke-dasharray="3,3"/>
+        <rect x="596" y="118" width="105" height="144" fill="#fff" stroke="#000" stroke-width="4"/>
+        <text id="DecryptedPlaintext" x="607" y="167" font-family="Courier, monospace" font-weight="bold" font-size="24">Hello!</text>
+    </g>
+    <g id="Arrows" fill="#808080" stroke="#000" stroke-width="4" stroke-linejoin="miter" stroke-miterlimit="4">
+        <path d="M141,188L157,188L157,184L167,193.5L157,203L157,199L141,199L141,188Z"/>
+        <path d="M251,188L267,188L267,184L277,193.5L267,203L267,199L251,199L251,188Z"/>
+        <path d="M283,188L299,188L299,184L309,193.5L299,203L299,199L283,199L283,188Z"/>
+        <path d="M315,188L331,188L331,184L341,193.5L331,203L331,199L315,199L315,188Z"/>
+        <path d="M347,188L363,188L363,184L373,193.5L363,203L363,199L347,199L347,188Z"/>
+        <path d="M379,188L395,188L395,184L405,193.5L395,203L395,199L379,199L379,188Z"/>
+        <path d="M411,188L427,188L427,184L437,193.5L427,203L427,199L411,199L411,188Z"/>
+        <path d="M443,188L459,188L459,184L469,193.5L459,203L459,199L443,199L443,188Z"/>
+        <path d="M562,188L578,188L578,184L588,193.5L578,203L578,199L562,199L562,188Z"/>
+    </g>
+</svg>
