@@ -36,8 +36,8 @@ You all should have run the following:
 
 # Import my public key
 
-Attempt 1: `gpg --recv-keys E47763416159625F60ACE88A7E5CF54E1BBA3984`
-Attempt 2: `gpg --keyserver keyserver.ubuntu.com --recv-keys E47763416159625F60ACE88A7E5CF54E1BBA3984`
+* Attempt 1: `gpg --recv-keys E47763416159625F60ACE88A7E5CF54E1BBA3984`
+* Attempt 2: `gpg --keyserver keyserver.ubuntu.com --recv-keys E47763416159625F60ACE88A7E5CF54E1BBA3984`
 
 OR
 
