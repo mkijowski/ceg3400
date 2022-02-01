@@ -1,13 +1,10 @@
-# Todays Agenda
+# Todays Agenda (2/1)
 
-* Key signing party
+* Key signing party review (finish this document)
 * 3 GRADED Assignments for today
-  * Sign my gpg key upload to pilot dropbox (due today midnight)
-  * Take a quiz (due in class, will notify you when to take it)
-* The last assignment is a 2 parter
-  * Get 3 other student signatures on your public key
-  * Sign 3 other students public keys
-  * Upload your signed public key to pilot dropbox (due next Tuesday)
+  * Mkijowski signed public key (pilot dropbox)
+  * YOUR thrice-signed public key (pilot dropbox)
+  * Pilot Quiz (you need your public key fingerprint)
 
 ---
 
@@ -99,6 +96,16 @@ Private key can decrypt messages from public. (Confidentiality)
 
 ---
 
+# Day 2 (what are we even doing?)
+
+* Exchanging keys
+* Establishing a Web of Trust!
+
+## But what else can we be doing...
+* `gpg --list-sigs <Email or Fingerprint>`
+
+---
+
 # Signed sealed delivered
 
 Lets sign a message!
@@ -108,6 +115,10 @@ Lets sign a message!
 * share the output sample.gpg with someone you exchanged keys with
 * `cat` the output file, can you read the contents?
 * `gpg --verify sample.gpg`
+
+## Other signing options
+* `gpg --clear-sign`
+* `gpg --detach-sign`
 
 ---
 
@@ -121,7 +132,6 @@ Lets send a secret message!
 * Send them `secret-message.txt` via email or discord
 * The recipient can decrypt with:
   * `gpg --output secret.txt --decrypt secret-message.gpg`
-
 
 --- 
 
@@ -143,4 +153,37 @@ You can also backup your private key and any public keys with:
 
 ---
 
+# (Web of Trust)[https://en.wikipedia.org/wiki/Web_of_trust]
 
+Decentralized trust network similar to what we have done in class.
+
+* Hard to attack
+* easy to lose private key
+* hard to get started as a new user (how do you gain trust?)
+
+---
+
+# Wouldn't it be nice
+
+* Lets pretend we are lazy...
+* How would you improve the Web of Trust?
+
+---
+
+# I really hope we invented a Certificate Authority...
+
+## Raise your hand if you know the following companies
+
+* Thawte
+* Comodo
+* WoSign
+* Symantec
+* GoDaddy
+
+(Timeline of Certificat Authority Failures)[https://sslmate.com/resources/certificate_authority_failures]
+
+---
+
+# PKI
+
+The methods, policies, roles, hardware, software, and procedures that facilitate creating, managing, distributing, using, storing, and revoking public keys is called a Public Key Infrastructure (PKI).
