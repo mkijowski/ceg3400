@@ -47,7 +47,7 @@ Verifying the identity of a user or process
 
 # CorrectHorseBatteryStaple
 
-![xkcd](./img/password_strength.png)
+![xkcd](./img/password_strength.png){height=90%}
 
 ---
 
@@ -65,7 +65,7 @@ Generally can be classified into two types:
 Attacks the login interface directly, frequently limited by speed (of network / response from authenticator / input).
 
 * Brute force
-* Smarter brute force (rainbow tables)
+* Smarter brute force (dictionary / rainbow tables)
 * Shoulder surfing (watching someone enter password)
 * Pass the hash (application accepts hashes or passwords)
 
@@ -85,6 +85,8 @@ We will perform one of these in our next lab.
 
 * Much faster (attack speed scales with attacker resources)
 * Invisible to defenders (you dont know if/when your password is compromised)
+* Many of the same attacks as online (brute force)
+* Requires an offline source to attack (stolen password hashes)
 
 ---
 
@@ -92,6 +94,7 @@ We will perform one of these in our next lab.
 
 * Multi-Factor Authentication (MFA / 2FA)
 * Keys/tokens (PKI)
+* Biometrics
 
 ---
 
