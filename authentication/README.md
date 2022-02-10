@@ -189,6 +189,16 @@ You (will) get hacked. Then what?
 
 ---
 
+# Scorched earth
+
+* There is a way to trick amazon into giving up the last 4 digits of your CC
+* This lets people into me.com (AppleID)
+* which gave them his gmail
+* which gave them his twitter
+* which was really his entire digital life...
+
+---
+
 # Incident response plan
 
 * Know what ALL forms of authentication are for critical services
