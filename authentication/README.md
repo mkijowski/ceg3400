@@ -146,7 +146,53 @@ Typically used with APIs with multiple frameworks and clients.
 
 You (will) get hacked. Then what?
 
-To be continued...
+---
+
+# Mat Honan - A case study
+
+* circa 2012
+* Wired.com tech blogger
+* twitter @mat
+* Apple fanboy (joking, but does use apple products)
+  * `m******@me.com`
+* Enjoys amazon.com delivery of goods to his home address
 
 ---
 
+# The incident
+
+* August 2012
+* 5pm iphone resets
+* phone power on and iphone is at setup screen
+  * (backups etc were done nightly so no fear yet)
+* plug phone in to laptop to restore/recover
+  * notification on macbook of incorrect gmail credentials
+  * macbook has new (unknown) 4 digit pin protection
+
+## What would you do?
+
+---
+
+# The hack
+
+* First all, the reason behind it: @mat...
+  * backround research revealed @mat is Matthew Honan
+  * find physical address from various online lookups
+  * find email address from various online lookups
+
+* try to sign into twitter with that gmail address 
+  * this confirmed that the gmail address is @mat
+
+* try to sign into that gmail address
+  * no 2fa!
+  * account recovery is `m******@me.com`
+
+---
+
+# Incident response plan
+
+* Know what ALL forms of authentication are for critical services
+* Setup MFA for critical/all accounts
+* Know how to disable/re-enable the MFA
+* Be prepared to provide necessary information
+* Be aware of chained accounts / vulnerabilities
