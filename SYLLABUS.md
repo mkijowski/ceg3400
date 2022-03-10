@@ -1,14 +1,14 @@
 # CEG 3400 Introduction to Cyber Security
 ### Table of contents
-* [Instructor Info](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#instructor-info)
-* [Course Info](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-information)
-* [Student Learning Outcomes](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#student-learning-outcomes)
-* [Method of Instruction](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#method-of-instruction)
-* [Course Communication and Administration](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-communication-and-administration)
-* [Course Policies](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#course-policies)
-* [Midterm Exam](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#midterm-exam)
-* [Final Exam](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#final-exam)
-* [Topics Covered](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md#topics-covered)
+* [Instructor Info](SYLLABUS.md#instructor-info)
+* [Course Info](SYLLABUS.md#course-information)
+* [Student Learning Outcomes](SYLLABUS.md#student-learning-outcomes)
+* [Method of Instruction](SYLLABUS.md#method-of-instruction)
+* [Course Communication and Administration](SYLLABUS.md#course-communication-and-administration)
+* [Course Policies](SYLLABUS.md#course-policies)
+* [Midterm Exam](SYLLABUS.md#midterm-exam)
+* [Final Exam](SYLLABUS.md#final-exam)
+* [Topics Covered](SYLLABUS.md#topics-covered)
 
 ### Instructor Info
 * Matthew Kijowski 
