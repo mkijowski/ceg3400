@@ -12,7 +12,7 @@
 * `nmap` scans and network ownership
 * Multiple CIDR's
 * Risk = **f(***Overall likelihood*, *Impact***)**
-* Overall Likelihood =** f(***likelihood of occuring*, *likelihood of adverse impact***)**
+* Overall Likelihood = **f(***likelihood of occuring*, *likelihood of adverse impact***)**
 
 ---
 
