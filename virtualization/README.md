@@ -142,11 +142,13 @@ provider interaction.
 
 * Multi-tenancy
   * Other users and code running on same hardware
-* Namespaces (containers)
-  * PID namespace
-  * User namespace
+* Additional software
+  * Hypervisor / Container engine
 * Data security
   * Data is accessible when VM/container is not running
+* Concern for escape
+  * Namespace escape (containers)
+  * Hypervisor escape (access to *real* hardware)
 
 ---
 
