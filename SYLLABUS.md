@@ -23,7 +23,7 @@
 ### Course Information
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 9:30AM - 10:50AM in 152c Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 11:00AM - 12:20AM in 355 Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
@@ -129,10 +129,10 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Midterm Exam
-* Date: Thursday, February 24, 2022 (during class)
+* Date: TBD 2022 (during class)
 
 ### Final Exam
-* Date: Tuesday, April 26, 2022 8:00AM - 10:00AM
+* Date: Tuesday, December 6, 2022 8:00AM - 10:00AM
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
 
@@ -161,3 +161,4 @@ These topics will not necessarily be covered in order.
 * Risk Profile and Cyber Hygiene
 * Vulnerability Taxonomies and Assessment
 * Cyber Law & Economics
+
