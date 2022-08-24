@@ -8,11 +8,12 @@ Truth needs a soldier
 
 # Today's Objectives
 
-* Cover changes to syllabus (midterm Feb. 24 in class)
+* Midterm: Thursday Oct. 6 in class
+* Cover changes to syllabus (Final date is Thursday, December 8, 2022  10:15AM - 12:15PM 355 Russ)
 * Define Cyberspace
-* Take a (bogus) quiz
 * Define Information Security (CIA triad)
 * Define Cyber Security
+* Take a (bogus) quiz
 * Define Risk
 * Define Vulnerability
 * Define Threat

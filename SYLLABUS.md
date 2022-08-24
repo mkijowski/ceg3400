@@ -129,10 +129,10 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Midterm Exam
-* Date: TBD 2022 (during class)
+* Date: Thursday October 6 (during class)
 
 ### Final Exam
-* Date: Tuesday, December 6, 2022 8:00AM - 10:00AM
+* Date: Thursday, December 8, 2022   10:15AM - 12:15PM (355 Russ)
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
 
