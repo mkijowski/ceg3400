@@ -8,7 +8,6 @@
 
 ## Topics covered day 2
 
-* Syllabus Change!!!
 * Attacks on Hashes
 * Salts and nonce
 * Key Stretching
