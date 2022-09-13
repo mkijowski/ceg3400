@@ -1,16 +1,17 @@
-# Todays Agenda (2/1)
+# Todays Agenda (9/13) 
 
-* Key signing party review (finish this document)
+## Key Signing Party!!
+
 * 3 GRADED Assignments for today
   * Mkijowski signed public key (pilot dropbox)
   * YOUR thrice-signed public key (pilot dropbox)
-  * Pilot Quiz (you need your public key fingerprint)
+  * Sign three other students keys (pilot dropbox)  
 
 ---
 
 # It's going to be a lame party isn't it...
 
-You all should have run the following:
+You all should have run the following and uploaded it to pilot:
 
 `gpg --full-generate-key`
 
@@ -25,9 +26,10 @@ You all should have run the following:
 # Goals for today
 
 * Establish trust with instructor (and 3 other students in this class)
-* Import my public key
+* Import the public key ring for this class
 * Sign and Return my public key
-* Exchange and sign 3 other keys
+* Sign 3 other keys and upload
+* Get your key signed by three others
 
 ---
 
