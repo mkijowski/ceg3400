@@ -1,4 +1,16 @@
-# Todays Agenda (9/13) 
+# Today's Agenda (9/14)
+
+* Review
+  * Asymmetric Key basics
+  * GPG basic commands
+* Assignment due tonight!
+  * Sign 3 other student keys
+  * Get your key signed by three others
+* Lab 2 Assigned, Due Sep. 22 @ 11:59pm
+
+---
+
+# Tuesdays Agenda (9/13) 
 
 ## Key Signing Party!!
 
@@ -104,6 +116,7 @@ Private key can decrypt messages from public. (Confidentiality)
 * Establishing a Web of Trust!
 
 ## But what else can we be doing...
+
 * `gpg --list-sigs <Email or Fingerprint>`
 
 ---
@@ -119,6 +132,7 @@ Lets sign a message!
 * `gpg --verify sample.gpg`
 
 ## Other signing options
+
 * `gpg --clear-sign`
 * `gpg --detach-sign`
 
@@ -149,9 +163,8 @@ Save this file!!!
 
 You can also backup your private key and any public keys with:
 
-* `gpg --armor --export-secret-key your.email@wright.edu`
-* `gpg --armor --export your.email@wright.edu`
-* `gpg --armor --export friends@wright.edu`
+* `gpg --armor --export-secret-key your.email@wright.edu > mysecretkey.gpg`
+* `gpg --armor --export > allpubkeys.gpg`
 
 ---
 
@@ -189,3 +202,4 @@ Decentralized trust network similar to what we have done in class.
 # PKI
 
 The methods, policies, roles, hardware, software, and procedures that facilitate creating, managing, distributing, using, storing, and revoking public keys is called a Public Key Infrastructure (PKI).
+
