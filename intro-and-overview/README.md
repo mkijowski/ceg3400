@@ -211,6 +211,10 @@ Does anyone notice any problems or flaws with this cycle?
 
 # Homework
 
+1. Make an account on Github!
+
+2. Get your environment ready (install WSL Ubuntu and Mobaxterm)
+
 1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8) 
 
 2. Read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (read the intro and overview)
