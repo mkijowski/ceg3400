@@ -46,6 +46,7 @@ Anaconda python (or miniconda) with `conda install scapy`.  Scapy is also common
 included in `apt` and other linux repositories.
 
 ```bash
+sudo apt update && \
 sudo apt install python3-scapy
 ```
 
