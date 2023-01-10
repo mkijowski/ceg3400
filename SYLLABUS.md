@@ -1,5 +1,7 @@
-# CEG 3400 Introduction to Cyber Security
+# Syllabus: CEG 3400 - Introduction to Cyber Security
+
 ### Table of contents
+
 * [Instructor Info](SYLLABUS.md#instructor-info)
 * [Course Info](SYLLABUS.md#course-information)
 * [Student Learning Outcomes](SYLLABUS.md#student-learning-outcomes)
@@ -11,6 +13,7 @@
 * [Topics Covered](SYLLABUS.md#topics-covered)
 
 ### Instructor Info
+
 * Matthew Kijowski 
 * matthew.kijowski@wright.edu & matthewkijowski@gmail.com
 * `@Matt Kijowski` on Discord
@@ -21,9 +24,10 @@
 ---
 
 ### Course Information
+
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 11:00AM - 12:20AM in 355 Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 9:30AM - 10:50AM in 152c Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
@@ -31,12 +35,13 @@
 * Resource Requirements:
   * Personal Computer (Required for remote attendance): Every student attending remotely is 
     required to have their own computer for this course (desktop or laptop).
-  * Textbook (Required) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
+  * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
 
 ---
 
 ### Student Learning Outcomes
+
 After successful completion of this course, the student will be able to:
 
 1. Demonstrate understanding of modern cyberspace that features a collection of
@@ -66,6 +71,7 @@ After successful completion of this course, the student will be able to:
 ---
 
 ### Method of Instruction
+
 Instruction will be available in one mode:
 
 * Synchronous in person: set meet time in 152c Russ
@@ -76,6 +82,7 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Course Communication and Administration
+
 * [CS/CEG Discord Server](https://discord.gg/pMUMzTt)
   * Will be used for office hours
   * Will be available 24/7 for students to collaborate with each other
@@ -91,6 +98,7 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Course Policies
+
 * All assignments will be submitted before the due date.  ***Late work will not be accepted.***
 * Assigned reading and viewing must be performed prior to class.
 * Quizzes are given at random.
@@ -129,17 +137,24 @@ unable to attend and I will try to accommodate you.
 ---
 
 ### Midterm Exam
-* Date: Thursday October 6 (during class)
+
+* In person required
+* Date: Thursday February 23 (during class)
 
 ### Final Exam
-* Date: Thursday, December 8, 2022   10:15AM - 12:15PM (355 Russ)
+
+* In person required
+* Date: Tuesday, April 25, 2023   8:00AM - 10:00AM (in classroom)
+
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
 
 ---
 
 ### Topics covered 
+
 These topics will not necessarily be covered in order.
+
 * Foundation of Cyber Security
 * Malware and Social Engineering
 * Crypto Concepts
