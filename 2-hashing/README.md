@@ -2,12 +2,12 @@
 
 ## Topics covered hashing day 1
 
-* Homework and review
 * What is hashing
+* Common Hashing alghorithms
+
+## Topics covered day 2 (next week)
+
 * Class exercise
-
-## Topics covered day 2
-
 * Attacks on Hashes
 * Salts and nonce
 * Key Stretching
@@ -16,25 +16,10 @@
 
 ---
 
-# Homework review
-
-Did anyone do any further digging?
-
-Are there any questions over this?
-
-What questions would you NOT want me to ask on a quiz?
-
----
 
 # What is Hashing?
 
-You guys tell me:
-
----
-
-# Wikipedia
-
-> A cryptographic hash function is a one way mathematical function that maps data of an arbitrary size to a bit array of fixed size.  The output bit array is commonly called a hash or digest.
+> A cryptographic hash function is a one way mathematical function that maps data of an arbitrary size to a bit array of fixed size.  The output bit array is commonly called a hash or digest. -Wikipedia
 
 Key tenets of a hash algorithm:
 
@@ -45,6 +30,30 @@ Key tenets of a hash algorithm:
 3. ***Deterministic***, for the same input value, a hash function must always provide the same output
 
 4. A small change to the input should result in large change to the hash value (***avalanche effect***)
+
+---
+
+# In english
+
+A fancy algorithm that converts a variable length input data to a fixed length output data with the following constraints:
+
+* same input == same output
+* different input == ***MASSIVE*** likelihood of different output
+* output data reveals ***NO*** information about the input data
+* must be **collision resistant**
+
+What is a collision???
+
+---
+
+# Hashing algorithms
+
+| Hashing Algorithm | Hash size (bits) | Hash size (hex length) | Collision-resistant |
+| --- | --- | --- |:---|
+| MD5 | 128 | 32 | no |
+| sha256 | 256 | 64 | yes |
+| sha512 | 512 | 128 | yes |
+| NTLM | 128 | 32 | no |
 
 ---
 
