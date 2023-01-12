@@ -1,15 +1,12 @@
 # Lecture 1 - A Clear and Present Danger
 
-Truth needs a soldier
-
-![truth-is-out-there](./imgs/the-truth-is-out-there-x-files.jpg)
+![iceberg](./imgs/iceberg.jpg)
 
 ---
 
-# Today's Objectives
+# First week Objectives
 
-* Midterm: Thursday Oct. 6 in class
-* Cover changes to syllabus (Final date is Thursday, December 8, 2022  10:15AM - 12:15PM 355 Russ)
+* Midterm and Final exam dates in [Syallabus](https://github.com/mkijowski/ceg3400/blob/master/SYLLABUS.md)
 * Define Cyberspace
 * Define Information Security (CIA triad)
 * Define Cyber Security
@@ -17,7 +14,7 @@ Truth needs a soldier
 * Define Risk
 * Define Vulnerability
 * Define Threat
-* The Risk Management cycle
+* The Risk Management Cycle
 * Homework
 
 ---
@@ -202,10 +199,6 @@ Does anyone notice any problems or flaws with this cycle?
 * 7.9 Billion people
 * 21.5 billion interconnected devices
 * ![cve-per-month](./imgs/cves-per-year-month.png)
-
----
-
-![so-are-lies](./imgs/Truth-is-out-there-but-so-are-lies.jpg)
 
 ---
 
