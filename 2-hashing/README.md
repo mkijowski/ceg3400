@@ -73,8 +73,9 @@ What is a collision???
 
 But first, a pet peeve of mine...
 
-[Link to quiz result data](https://raw.githubusercontent.com/mkijowski/ceg3400-spring/master/hashing/data/quiz-data.csv)
-`sha256sum : 7e320905f9480a0257abe1176da9b632322b9fc3f4135d6152e8c350d68f1179`
+[Link to quiz result data](https://github.com/mkijowski/lab1-ceg-3400/blob/master/data/quiz_data.csv)
+
+`sha256sum : 461910342f0b0f6163e1f13041d55eb87a94fcebb539f71842c163f3b1358de7`
 
 ## Do you trust the above?
 
@@ -205,3 +206,4 @@ Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
 ---
 
 Linux password hashes are stored in `/etc/shadow`.  Lets make a new user and see if we can verify their hash!
+
