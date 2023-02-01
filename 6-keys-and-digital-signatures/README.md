@@ -1,16 +1,14 @@
-# Today's Agenda (9/14)
+# Today's Agenda
 
 * Review
   * Asymmetric Key basics
   * GPG basic commands
-* Assignment due tonight!
+* Key signing party assignment due next Tuesday
   * Sign 3 other student keys
   * Get your key signed by three others
-* Lab 2 Assigned, Due Sep. 22 @ 11:59pm
+* Lab 2 Assigned
 
 ---
-
-# Tuesdays Agenda (9/13) 
 
 ## Key Signing Party!!
 
