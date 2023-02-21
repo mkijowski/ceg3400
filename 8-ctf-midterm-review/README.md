@@ -27,7 +27,7 @@ words joined by a symbol.  Examples:
 * `flag#staff`
 Use the clues to recover them.
 
-##### Hints
+#### Hints
 
 * If you get stuck on one challenge skip it and come back.
 * Don't forget to check the `man` pages of any of the possible helpful commands!
@@ -35,12 +35,14 @@ Use the clues to recover them.
 
 ---
 
-##### Flag 0 - the past
+### Flag 0 - the past
 
 Flag 0 was ran some time in the past, when Airman Joe had a seat at the table, 
 protecting the perimeter of his little round table of comrades. 
 
-##### Flag 1 - readme
+---
+
+### Flag 1 - readme
 
 The first flag is stored in a file called **readme** located in the home 
 directory of user airmanjoe: `/home/airmanjoe`.  
@@ -49,46 +51,46 @@ You can read it directly if you are already in that directory with `cat readme`,
 otherwise you need to specify the whole path to the file like this: 
 `cat /home/airmanjoe/readme`
 
-###### Helpful commands
+#### Helpful commands
 
 `cat`
 
 ---
 
-#### Flag 2- /home sweet /home
+### Flag 2- /home sweet /home
 
 The next flag is in a file called **readme** but this file is "up" one directory in `/home`.
 I don't care how you get there, just get the flag ;)
 
-###### Helpful commands
+#### Helpful commands
 
 `cd, ls, cat, pwd`
 
 ---
 
-##### Flag 3 - 
+### Flag 3 - 
 
 The next flag is stored in a file called **-** located in the home 
 directory `/home/airmanjoe`  Easy right? 
 
-###### Helpful commands
+#### Helpful commands
 
 `ctrl+c` 
 
 ---
 
-##### Flag 4 - space
+### Flag 4 - space
 
 This flag is stored in a file called **spaces in this filename** in the home 
 directory `~/`
 
-###### Helpful commands
+#### Helpful commands
 
 `cd, ls, cat`
 
 ---
 
-##### Flag 5 - hidden
+### Flag 5 - hidden
 
 The flag is stored in a hidden file in the **hidden** directory.
 Some helpful hints:
@@ -97,63 +99,63 @@ Some helpful hints:
 * `cd ../` will change directory one level up
 * `cd ~` will go back to your home directory ('/home/airmanjoe')
 
-###### Helpful commands
+#### Helpful commands
 
 `cd, ls, man, cat`
 
 ---
 
-##### Flag 6 - execute
+### Flag 6 - execute
 
 This flag is output when you run the **execute_me** program in the home directory.
 Hint: executing programs from your home directory is a little different, you
 need to tell linux *where* the program is...
 
-###### Helpful commands
+#### Helpful commands
 
 `cd, ls, cat, ./`
 
 ---
 
-##### Flag 7 - It wasn't me...
+### Flag 7 - It wasn't me...
 
 You will need to use the **setuid** program in your home directory for this challenge.  
 The next flag is stored in a file named **readme** in airman **Bob's** home directory 
 `/home/airmanbob/readme`.
 
-###### Helpful commands
+#### Helpful commands
 
 `whoami, cat`
 
 ---
 
-##### Flag 8 - lost
+### Flag 8 - lost
 
 This flag is hidden somewhere in the **lost** directory in a file that is 
 exactly 503 bytes.
 
-###### Helpful commands
+#### Helpful commands
 
 `cat, find, man`
 
 ---
 
-##### Flags 9 & 10 - alike
+### Flags 9 & 10 - alike
 
 Two files in the **alike** directory have the same contents.  These two flags
 are the names of the two files with identical contents.
 
-###### Helpful commands
+#### Helpful commands
 
 `md5sum, diff`
 
 ---
 
-##### Flag 11 - Charles in charge
+### Flag 11 - Charles in charge
 
 The final flag for today is located in `/home/airmancharles` home directory.  If only you had *permission* to view it.
 
-###### Helpful commands
+#### Helpful commands
 
 ????
 
