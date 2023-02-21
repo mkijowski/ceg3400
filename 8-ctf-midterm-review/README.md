@@ -121,7 +121,7 @@ need to tell linux *where* the program is...
 
 You will need to use the **setuid** program in your home directory for this challenge.  
 The next flag is stored in a file named **readme** in airman **Bob's** home directory 
-`/home/airmanbob/readme`.
+`/home/airmanbob/bobs.secret`.
 
 #### Helpful commands
 
