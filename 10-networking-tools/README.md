@@ -7,7 +7,6 @@
   * tcpdump
 * nmap
 * nc
-* In class exercise ***Graded!!!***
 
 ---
 
@@ -58,31 +57,4 @@ Tool to inspect create sockets (application connections to an IP port).  Allows 
 simply connect to another host IP and port, or to bind to a port locally and listen.
 
 Think the `cat` command for network sockets.
-
----
-
-# In class exercise!
-
-Download the [key file](data/priv-key.pem) here or from pilot news.
-
-`ssh` into your system below using username of `ubuntu`
-
-| Table 1 | 44.192.73.214 |
-| Table 2 | 3.236.170.248 |
-| Table 3 | 3.226.72.125 |
-| Table 4 | 54.224.8.50 |
-| Table 5 | 34.239.116.166 |
-| Table 6 | 34.200.216.80 |
-| Table 7 (online?) | 100.26.232.188 |
-
----
-
-# Load up the quiz (pilot)
-
-* Unlimited attempts until midnight
-* work within your table
-* no sharing answers, but definitely share how you got them
-* ***ALL work should be done INSIDE your AWS battle space***
-  * `ssh` in to yout tables system above and run all commands there
-
 
