@@ -2,8 +2,8 @@
 
 Lets do a deep dive into networking by looking at individual packets. 
 
-Please ignore any actual *assignment* part of this guide, it was a quick copy
-over from a previous semester.  I hope it proves useful though ;)
+There is a graded *assignment* part of this guide, please find it in the pilot dropbox.  
+This assignment is due 3/20/23 at 11:59pm (Monday night!)
 
 ---
 
@@ -99,6 +99,7 @@ Bash*!
 
 This will sniff 10 packets and store them in capture.  We can print out some
 details regarding these packets with the following commands:
+
 * `capture`
 * `capture.show()`
 * `capture[1]`
@@ -141,11 +142,12 @@ around (we aren't sending these packets anywhere yet, we're just playing).
    destination of a nameserver.  If you are on campus you MUST use a campus
    nameserver like `130.108.128.200`, otherwise I would just use a google DNS
    server such as `8.8.8.8`:
+
    ```
    ofp = IP(dest="8.8.8.8")
    ```
 
-   ummm...`ls(IP)`
+   ummm  **there is an error in the above** can you find it?  hint, checkout `ls(IP)`
 
    ```
    ofp.show()
@@ -157,16 +159,20 @@ around (we aren't sending these packets anywhere yet, we're just playing).
 
 3. Now lets get to some of the good stuff.  In order to get our DNS request to the
    server we need to add a UDP layer, which in scapy is done like so:
+
    ```
    ofudp = ofp/UDP()
    ```
+
    **OR**
+
    ```
    ofudp=IP(dest="8.8.8.8")/UDP()
    ```
 
    Here we have created a new packet from the IP layer contained in `ofp` and the
    `UDP()` scapy command.  Lets take a look at our two packets now:
+
    ```
    ofp.show()
    ofudp.show()
@@ -174,10 +180,12 @@ around (we aren't sending these packets anywhere yet, we're just playing).
 
 4. Looking good so far, but we're missing all of the DNS data in the UDP datagram.
    Luckily scapy has a library for this too:
+
    ```
    ofdnsp=ofudp/DNS()
    ofdnsp.show()
    ```
+
    We're almost there, but I wanted to take a second to show you that the DNS()
    created an empty shell of the DNS UDP datagram.  To fill that out we need to
    enter the necessary information into the scapy `DNS()` field which I do not
@@ -186,6 +194,7 @@ around (we aren't sending these packets anywhere yet, we're just playing).
 
 5. Finally we add the neccessary data to our UDP DNS datagram.  
    To make things easier on you I am just providing the correct options below:
+
    ```
    ofdns= ofudp/DNS(rd=1,qd=DNSQR(qname="www.google.com"))
    ```
@@ -230,4 +239,5 @@ response[0]
 
 which should show the first packet received.  Hopefully this is a response to
 our DNS queuery.  
+over from a previous semester.  I hope it proves useful though ;)
 
