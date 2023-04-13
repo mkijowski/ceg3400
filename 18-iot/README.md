@@ -128,12 +128,4 @@
 * Interconnectedness
   * weakest link (IoT devices can be controlled by other devices)
 
----
-
-# Quiz!
-
-* In pilot
-* must take now
-* 5 minute enforced limit
-* go
 
