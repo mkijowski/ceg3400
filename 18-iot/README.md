@@ -16,15 +16,6 @@
 
 ---
 
-# Alternate assignment
-
-* Make a shopping list of IoT devices (5)
-* What wireless connections does each device use?
-* Are the devices cloud connected/controlled?
-* Treat this 5 devices, any personal electronics, and your laptop as if they were the only responses to your nmap scan
-
----
-
 # Embedded systems
 
 > Computing hardware and software contained within a larger system 
