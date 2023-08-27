@@ -16,14 +16,11 @@
 
 When answering questions, keep them in-line but below the question.  Below are ***good*** responses.
 
-* For instance, what is your favorite color
+####
 
-  Blue
-
-* Next question
-  * next answer
-
-```
+* What is in your markdown file:
+  
+```markdown
 * For instance, what is your favorite color
 
   Blue
@@ -31,6 +28,17 @@ When answering questions, keep them in-line but below the question.  Below are *
 * Next question
   * next answer
 ```
+
+
+#### How it renders on Github:
+  
+* For instance, what is your favorite color
+
+  Blue
+
+* Next question
+  * next answer
+
 
 Notice the extra newline between the first question and answer, this is required to have it shown in a new paragraph. 
 The indentation before the answer allows it to be a part of the same bullet point 
@@ -39,18 +47,23 @@ The indentation before the answer allows it to be a part of the same bullet poin
 
 ### Bad examples
 
-```
+#### Markdown file contents
+
+```markdown
 * What is your favorite food
   pizza
 ```
+
+#### Github render
 
 * What is your favorite food
   pizza
 
 ---
 
-Worse yet:
-```
+#### Worse yet, Markdown file contents:
+
+```markdown
 * What is your favorite color?
 * What is the hex value of that color?
 * How many of that color items are in your backpack?
@@ -58,6 +71,8 @@ Blue
 000ff
 13
 ```
+
+#### Github render:
 
 * What is your favorite color?
 * What is the hex value of that color?
