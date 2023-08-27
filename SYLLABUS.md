@@ -27,14 +27,14 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 9:30AM - 10:50AM in 152c Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 11:00AM - 12:20PM in 355 Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
 * Prerequisites: minimum D in [CEG 2350: Operating Systems](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=95960)
 * Resource Requirements:
-  * Personal Computer (Required for remote attendance): Every student attending remotely is 
-    required to have their own computer for this course (desktop or laptop).
+  * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are 15 laptops available in the room
+    that are availalbe for use in the room.  If more than 15 students need a laptop please talk with the instructor.
   * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
 
@@ -74,7 +74,7 @@ After successful completion of this course, the student will be able to:
 
 Instruction will be available in one mode:
 
-* Synchronous in person: set meet time in 152c Russ
+* Synchronous in person: set meet time in 355 Russ
 
 In person attendance is mandatory except in case of illness or emergency.  Please email me before the start of class if you are
 unable to attend and I will try to accommodate you.
@@ -99,10 +99,10 @@ unable to attend and I will try to accommodate you.
 
 ### Course Policies
 
-* All assignments will be submitted before the due date.  ***Late work will not be accepted.***
+* All assignments will be submitted before the due date.  ***Late work will not be accepted without prior approval.***
 * Assigned reading and viewing must be performed prior to class.
 * Quizzes are given at random.
-* All written assignments will be submitted via ***plain text*** documents in markdown format.
+* All written assignments will be submitted via ***plain text*** documents in markdown format unless otherwise specified.
 * Students are permitted 3 unexcused 0's on graded assignments (Labs, quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
 * Failure to take the Midterm exam or Final exam will result in a 0 in this course.
 * Grading is left up to the instructor.  Students will receive no lower than the below, but the instructor will adjust these as necessary. 
@@ -134,17 +134,25 @@ unable to attend and I will try to accommodate you.
  course content will be available online if the instructor is notified prior to class.  You must  notify the instructor via discord or 
  email if you will be unable to participate on a given day **prior to the beginning of class**.  
 
+* Generative AI policy
+
+ You are not permitted to use generative AI tools for any work for this section of this course. This includes the use of popular tools 
+ like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. Due to the nature of this 
+ course, the professor can only fairly and accurately evaluate work that is not assisted by generative AI. Use of generative AI for 
+ assigned work in this course will be considered a violation of the university’s academic integrity policies.  If you have any questions
+ about whether or not use of a particular tool or technology is allowed, check with your instructor first.
+
 ---
 
 ### Midterm Exam
 
 * In person required
-* Date: Thursday February 23 (during class)
+* Date: TBD
 
 ### Final Exam
 
 * In person required
-* Date: Tuesday, April 25, 2023   8:00AM - 10:00AM (in classroom)
+* Date: Thursday, December 14, 2023   10:15AM - 12:15PM (in classroom)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
@@ -176,4 +184,3 @@ These topics will not necessarily be covered in order.
 * Risk Profile and Cyber Hygiene
 * Vulnerability Taxonomies and Assessment
 * Cyber Law & Economics
-
