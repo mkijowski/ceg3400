@@ -147,7 +147,7 @@ unable to attend and I will try to accommodate you.
 ### Midterm Exam
 
 * In person required
-* Date: TBD
+* Date: Thursday, October 12, 2023 in class
 
 ### Final Exam
 
