@@ -119,11 +119,11 @@ Now about the quiz data, can we reverse our hash?
 
 # Attacks on hashes 
 
+* Brute force: hash everything (worst case scenario)
 * Pass the hash: an authenticating system accepts hashes, and you have them
 * Dictionary attack: you have a dictionary of likely input data used to compute hashes
 * Rainbow table: you have a dictionary of pre-computed hashes and known input data
 * Collision: you guess/compute ***different*** data that computes to the same hash value
-* Brute force: hash everything
 
 ---
 
@@ -190,5 +190,11 @@ Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
 
 ---
 
-Linux password hashes are stored in `/etc/shadow`.  Lets make a new user and see if we can verify their hash!
+# Homework
+
+* Research some effective and ineffective password strategies (google it...)
+* Make a new linux user with a weak password (pleased dont use the top 10)
+* Copy the above users weak password hash (corresponding line in `/etc/shadow`) and submit to Pilot.
+  * It should look something like this: `mynewuser2:$y$j9T$hBy.nN91qFxXxCMP...`
+* Get started on your lab!!!
 
