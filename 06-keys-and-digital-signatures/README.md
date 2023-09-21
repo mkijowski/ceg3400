@@ -11,7 +11,7 @@
 
 ## Key Signing Party!!
 
-* 3 GRADED Assignments for today
+* 3 GRADED Tasks for today
   * Mkijowski signed public key (pilot dropbox)
   * YOUR thrice-signed public key (pilot dropbox)
   * Sign three other students keys (pilot dropbox)  
