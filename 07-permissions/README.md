@@ -2,7 +2,7 @@
 
 ### Some administration:
 
-* Lab 3 will be given assigned Tuesday
+* Lab 4 will be assigned next Thursday
 * `/etc/passwd`, `/etc/shadow`, `/etc/group` and you.
 
 ### Topics:
@@ -54,7 +54,7 @@ some notes:
 
 # Users
 
-> In Linux, a user is an entity that can manipulate files (and some other thigns...)
+> In Linux, a user is an entity that can manipulate files (and some other things...)
 
 Users have some of the following properties:
 
