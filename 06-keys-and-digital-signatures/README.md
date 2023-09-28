@@ -3,16 +3,15 @@
 * Review
   * Asymmetric Key basics
   * GPG basic commands
-* Key signing party assignment due next Tuesday
+* Key signing party assignment due next Tuesday @ 11:59pm
   * Sign 3 other student keys
   * Get your key signed by three others
-* Lab 2 Assigned
 
 ---
 
 ## Key Signing Party!!
 
-* 3 GRADED Assignments for today
+* 3 GRADED Tasks for today
   * Mkijowski signed public key (pilot dropbox)
   * YOUR thrice-signed public key (pilot dropbox)
   * Sign three other students keys (pilot dropbox)  
@@ -64,7 +63,7 @@ E477 6341 6159 625F 60AC  E88A 7E5C F54E 1BBA 3984 <- Look at last 16 of output 
                                7E5C F54E 1BBA 3984 <- This is what I am assuring you is my key fingerprint
 ```
 
-
+* `gpg --list-key matthew.kijowski@wright.edu`
 * `gpg --edit-key matthew.kijowski@wright.edu`
 * `sign`
 * `save`
