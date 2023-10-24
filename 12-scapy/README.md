@@ -3,7 +3,7 @@
 Lets do a deep dive into networking by looking at individual packets. 
 
 There is a graded *assignment* part of this guide, please find it in the pilot dropbox.  
-This assignment is due 3/20/23 at 11:59pm (Monday night!)
+This assignment is due 10/31/23 at 11:59pm (Tuesday night!)
 
 ---
 
@@ -36,6 +36,8 @@ manipulate packets (easily).  Until now...
 * [The scapy python library](https://scapy.net/)
 * [Scapy Docs](https://buildmedia.readthedocs.org/media/pdf/scapy/latest/scapy.pdf)
 * [Scapy Unofficial Guide](https://theitgeekchronicles.files.wordpress.com/2012/05/scapyguide1.pdf)
+* [Berkeley Packet Filter (BPF) syntax guide](https://biot.com/capstats/bpf.html)
+* [BPF guide from IBM](https://www.ibm.com/docs/en/qsip/7.4?topic=queries-berkeley-packet-filters)
 
 ---
 
@@ -144,7 +146,7 @@ around (we aren't sending these packets anywhere yet, we're just playing).
    server such as `8.8.8.8`:
 
    ```
-   ofp = IP(dest="8.8.8.8")
+   ofp = IP(dst="8.8.8.8")
    ```
 
    ummm  **there is an error in the above** can you find it?  hint, checkout `ls(IP)`
@@ -239,5 +241,4 @@ response[0]
 
 which should show the first packet received.  Hopefully this is a response to
 our DNS queuery.  
-over from a previous semester.  I hope it proves useful though ;)
 
