@@ -4,6 +4,7 @@
 
 * What is hashing
 * Common Hashing alghorithms
+* demo github changes
 
 ## Topics covered day 2 (next week)
 
