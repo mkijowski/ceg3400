@@ -126,7 +126,7 @@ unable to attend and I will try to accommodate you.
  Academic integrity violations will not be tolerated.  Student must submit their own work and 
  cite all sources of inspiration in a clear manner. Failure to do so will result in a 0 for
  the assignment and the offending student(s) conduct being sent to pertinent Student Affairs 
- committee.
+ committee.  *This includes work performed as a group, you must submit your own answers and evidence of code/command executions, no exceptions!*
 
 * Sick policy
 
