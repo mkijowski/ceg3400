@@ -27,13 +27,13 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 11:00AM - 12:20PM in 355 Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 9:30AM - 10:50AM in 152c Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
 * Prerequisites: minimum D in [CEG 2350: Operating Systems](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=95960)
 * Resource Requirements:
-  * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are 15 laptops available in the room
+  * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are ~15 laptops available in the room
     that are availalbe for use in the room.  If more than 15 students need a laptop please talk with the instructor.
   * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
@@ -74,7 +74,7 @@ After successful completion of this course, the student will be able to:
 
 Instruction will be available in one mode:
 
-* Synchronous in person: set meet time in 355 Russ
+* Synchronous in person: set meet time in person
 
 In person attendance is mandatory except in case of illness or emergency.  Please email me before the start of class if you are
 unable to attend and I will try to accommodate you.
@@ -147,12 +147,12 @@ unable to attend and I will try to accommodate you.
 ### Midterm Exam
 
 * In person required
-* Date: Thursday, October 12, 2023 in class
+* Date: TBD
 
 ### Final Exam
 
 * In person required
-* Date: Thursday, December 14, 2023   10:15AM - 12:15PM (in classroom)
+* Date: Tuesday, April 23, 2024 8:00AM - 10:00AM (in classroom)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
