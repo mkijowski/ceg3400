@@ -68,20 +68,6 @@ What is a collision???
 
 ---
 
-# Class Exercise
-
-## Bogus quiz results are in!
-
-But first, a pet peeve of mine...
-
-[Link to quiz result data](https://github.com/mkijowski/lab1-ceg-3400/blob/master/data/quiz_data.csv)
-
-`sha256sum : 461910342f0b0f6163e1f13041d55eb87a94fcebb539f71842c163f3b1358de7`
-
-## Do you trust the above?
-
----
-
 # Follow along (in `bash`) for some data science fun:
 
 What is the difference between the following:
