@@ -12,6 +12,10 @@
 
 ---
 
+## Always put your name ***IN*** the `README.md`
+
+---
+
 ## Keeping answers inline
 
 When answering questions, keep them in-line but below the question.  Below are ***good*** responses.
