@@ -2,9 +2,8 @@
 
 ## Topics covered hashing day 1
 
-* What is hashing
+* What is hashing really?
 * Common Hashing alghorithms
-* demo github changes
 
 ## Topics covered day 2 (next week)
 
@@ -91,10 +90,6 @@ Now about the quiz data, can we reverse our hash?
 * campus UID
 * Social Security Number
 * First initial Last name combo ie. `MKijowski`
-
----
-
-# Today's Hashing quiz will be moved to Thursday
 
 ---
 
