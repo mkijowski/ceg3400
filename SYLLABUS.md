@@ -12,6 +12,8 @@
 * [Final Exam](SYLLABUS.md#final-exam)
 * [Topics Covered](SYLLABUS.md#topics-covered)
 
+---
+
 ### Instructor Info
 
 * Matthew Kijowski 
