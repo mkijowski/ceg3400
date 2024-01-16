@@ -13,6 +13,7 @@
 
 * [This might be the last time I have to talk about passwords in the present tense.](https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/)
   * - Matt Kijowski, Sep 12, 2023
+  * - Matt Kijowski, Jan 16, 2024
 
 ---
 
