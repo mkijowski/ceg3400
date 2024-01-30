@@ -154,6 +154,19 @@ Symmetric | Asymmetric
 
 ---
 
+# Apples and Oranges
+
+Although the end goal is the same (end up with *encrypted* data in the form
+of a cipher text), asymmetric and symmetric encryption work very differently.
+
+| | **Asymmetric (RSA 2048)** | **Symmetric (AES 128)** |
+| --- | --- | --- |
+| *Encrypt* spd | 1.5 MB/s | 100 MB/s |
+| *Decrypt* spd | 0.4 MB/s | 100 MB/s |  
+
+
+---
+
 # Public and Private Key pairs
 
 * Public key is public information, can be shared with anyone.
