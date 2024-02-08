@@ -17,6 +17,17 @@ is there at all.
 
 ---
 
+# How
+
+* Physically hiding the data/information has been used for centuries
+* Digitally altering a file to insert data while retaining the original 
+  information expected has proven to be be very easy
+  * Humans cant tell the difference between a `<tab>` character and 8 `<space>` characters
+  * Humans cant hear over ~20kHz
+  * Humans cant tell the difference between #00ff00 and #00ff01
+
+---
+
 # But why?
 
 * Encryption can be noisy / obvious.
@@ -28,7 +39,7 @@ is there at all.
 
 # When
 
-![Steganographia](data/steganographia.jpg)
+![Steganographia](data/steganographia.jpg){height=50%}
 
 First recorded use 1499, although writings from ancient Greece (~440 BC) mention ways to pass messages unseen.  
 
@@ -38,8 +49,8 @@ First recorded use 1499, although writings from ancient Greece (~440 BC) mention
 
 Anywhere we can think to hide data.
 
-* On a messengers scalp, allowing hair to regrow before sending ~440BC
-* Written on the wood of a wax tablet before wax was applied ~440bc
+* On a messengers scalp, allowing hair to regrow before sending ~440 BC
+* Written on the wood of a wax tablet before wax was applied ~440 BC
 * Published in a major work ~Steganographia 1499
 * Written to an alternate track mode on a floppy ~1970s
   * [40 track mode](https://en.wikipedia.org/wiki/40-track_mode)
@@ -104,7 +115,7 @@ Nothing fishy here...  The flag is wealthy+philanthropist
 
 # Text (printed to paper)
 
-![printer fingerprinting](data/printer.jpg)
+![printer fingerprinting](data/printer.jpg){height=50%}
 
 In 2015 it was discovered that all major printer manufacturers entered into a secret agreement with
 governments to ensure that the output of their printers was forensically traceable. [*-Wikipedia*](https://en.wikipedia.org/wiki/Machine_Identification_Code#cite_note-11)
