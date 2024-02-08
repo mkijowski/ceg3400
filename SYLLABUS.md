@@ -149,7 +149,7 @@ unable to attend and I will try to accommodate you.
 ### Midterm Exam
 
 * In person required
-* Date: TBD
+* Date: February 22nd, during class
 
 ### Final Exam
 
