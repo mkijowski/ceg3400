@@ -2,7 +2,6 @@
 
 ### Some administration:
 
-* Lab 4 will be assigned next Thursday
 * `/etc/passwd`, `/etc/shadow`, `/etc/group` and you.
 
 ### Topics:
