@@ -263,6 +263,18 @@ Consider the following:
 
 ---
 
+# Likelihood continued
+
+![Likelihood](./img/likelihood.png)
+
+---
+
+# Overall Likelihood
+
+![Overall Likelihood](./img/overall-likelihood.png)
+
+---
+
 # Determine impact of event
 
 Assuming the event occurs, what is the impact of that event.
