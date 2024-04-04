@@ -28,6 +28,7 @@ Today we are going to cover the following:
 
 ---
 
+
 # Risk Profile
 
 * **Risk Appetite** the risk *NEEDED* to achieve goals
@@ -174,6 +175,63 @@ Who are our adversaries and what are their capabilities?
 * State-Sponsored attackers
 * That one cousin who cant stand to see you succeed and is actively sabotaging your graduation
 * That one person from ITinder that you swiped right on, had dinner with, then ghosted
+
+---
+
+# From Day 1:
+
+![Risk](../01-intro-and-overview/imgs/threat-vulnerability-risk.png){height=50%}
+
+---
+
+# 1. System Susceptibility
+
+Is the system able to be attacked?
+
+Questions to ask:
+
+* Does it have value to attackers?
+* Thats about it...
+
+Mitigations:
+
+* Inventory (for CVE tracking by CPE, also to assign value)
+* CVE's
+* Good IT and coding standrads / practices
+
+---
+
+# 2. Threat Accessiblitiy
+
+Questions to ask:
+
+* What is your attack surface?
+* What is the logical and physical reachabilty?
+
+Mitigations:
+
+* Inventory (better describe your attack surface)
+* Phycial security (prevent physical access)
+* Network architecture and Firewalls (prevent logical access)
+* User accounts with good atuhentication (multifactor)
+
+---
+
+# 3. Threat capability
+
+* For each threat source, do they have the necessary tools / techniques / resources to attack *a given vulnerability*
+  that they *have access to*.
+
+Assumptions: 
+
+1. There exists a vulnerability
+2. That vulnerablity is accessible
+
+Mitigation:
+
+* Remove access
+* Patch or remove vulnerabilities
+* Understand what your adversaries are capable of (ATT&CK, threat modeling  
 
 ---
 
