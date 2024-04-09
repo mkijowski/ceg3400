@@ -128,4 +128,16 @@
 * Interconnectedness
   * weakest link (IoT devices can be controlled by other devices)
 
+---
+
+# That last slide was kinda rough right?
+
+Good thing MITRE has developed a new embedded systems security platform: EMB3D 
+
+* to be released early 2024, its not actually out yet
+* similar to MITRE's CWE and ATT&CK covering weaknesses and attacks on embedded systems
+* purpose is to inform embedded systems designers, but can also be used a good pen-test / defense matrix
+
+* [MITRE Announcnment](https://www.mitre.org/news-insights/news-release/mitre-red-balloon-security-and-narf-announce-emb3d)
+* [DarkReading Announcement](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 
