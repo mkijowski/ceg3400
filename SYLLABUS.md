@@ -29,13 +29,13 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 9:30AM - 10:50AM in 152c Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 11:00 AM - 12:20 PM in 355 Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
 * Prerequisites: minimum D in [CEG 2350: Operating Systems](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=95960)
 * Resource Requirements:
-  * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are ~15 laptops available in the room
+  * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are ~10 laptops available in the room
     that are availalbe for use in the room.  If more than 15 students need a laptop please talk with the instructor.
   * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
@@ -149,12 +149,12 @@ unable to attend and I will try to accommodate you.
 ### Midterm Exam
 
 * In person required
-* Date: February 22nd, during class
+* Date: TBD
 
 ### Final Exam
 
 * In person required
-* Date: Tuesday, April 23, 2024 8:00AM - 10:00AM (in classroom)
+* Date: Thursday, December 12, 10:15 AM - 12:15 AM (in classroom, 355 Russ)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
