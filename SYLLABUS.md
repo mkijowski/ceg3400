@@ -6,6 +6,7 @@
 * [Course Info](SYLLABUS.md#course-information)
 * [Student Learning Outcomes](SYLLABUS.md#student-learning-outcomes)
 * [Method of Instruction](SYLLABUS.md#method-of-instruction)
+* [Student Expectations](SYLLABUS.md#student-expectations)
 * [Course Communication and Administration](SYLLABUS.md#course-communication-and-administration)
 * [Course Policies](SYLLABUS.md#course-policies)
 * [Midterm Exam](SYLLABUS.md#midterm-exam)
@@ -83,6 +84,29 @@ unable to attend and I will try to accommodate you.
 
 ---
 
+### Student Expectations
+
+This outlines the basic expectations I will have for students in this course.
+
+* Be on time
+  * This means being early enough to have `bash` running at the beginning of class
+* Communicate effectively
+  * Email - formal requests or notifications that need a 1 business day turnaround
+  * Discord - synchronous communications with myself and students (also check pins)
+  * Github - for coursework, ***if its not in github, it didnt happen***
+    * put ALL work in gituhb, extra files, notes, issues, etc.
+  * Communicate *EARLY* and *OFTEN*
+* Practice effective learning strategies
+  * Research topics on your own
+  * Begin labs early
+  * ***if its not in github, it didnt happen***
+* All work is to be your own
+  * You can still collaborate with other students about assignments (use Discord and when in d    oubt just ask me!)
+  * Generative AI (ChatGPT, etc.) is not to be used on any lab or assignment writeup
+  * If using Generative AI on coding assignments document all use and include in your writeup
+
+---
+
 ### Course Communication and Administration
 
 * [CS/CEG Discord Server](https://discord.gg/pMUMzTt)
@@ -138,11 +162,10 @@ unable to attend and I will try to accommodate you.
 
 * Generative AI policy
 
- You are not permitted to use generative AI tools for any work for this section of this course. This includes the use of popular tools 
- like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. Due to the nature of this 
- course, the professor can only fairly and accurately evaluate work that is not assisted by generative AI. Use of generative AI for 
- assigned work in this course will be considered a violation of the university’s academic integrity policies.  If you have any questions
- about whether or not use of a particular tool or technology is allowed, check with your instructor first.
+ You are not permitted to use generative AI tools for any non-coding work for this course. This includes the use of popular tools 
+ like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. 
+ Use of generative AI for lab writeups or other non-coding work in this course will be considered a violation of the university’s academic integrity policies.  
+ If you have any questions about whether or not use of a particular tool or technology is allowed, check with your instructor first.
 
 ---
 
@@ -186,3 +209,4 @@ These topics will not necessarily be covered in order.
 * Risk Profile and Cyber Hygiene
 * Vulnerability Taxonomies and Assessment
 * Cyber Law & Economics
+
