@@ -283,7 +283,7 @@ These are the steps the attacker went through:
   * this confirmed that the gmail address is @mat
 
 * try to sign into that gmail address
-  * ***no 2fa !!!  :( !!! (╯°□°)╯︵ ┻━┻  !!!***
+  * ***no 2fa !!!  :( !!! :(  !!!***
   * account recovery is `m******@me.com`
 
 
