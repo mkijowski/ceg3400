@@ -137,6 +137,18 @@ We will perform one of these in our next lab.
 
 ---
 
+# '/etc/shadow' Exercise
+
+* Create a new user `sudo adduser tempuser`
+* Give it a weak password (that you can share with other students)
+  * No more than one use of the password: `password` per table please!!
+* Print out that user's salted + hashed password
+  * `sudo cat /etc/passwd | grep tempuser`
+* Submit that entire output to Pilot (include the user name and all trailing `:::`
+  * Reminder: plain text files only!!!
+
+---
+
 # Authentication defenses
 
 * Password managers
