@@ -146,6 +146,8 @@ We will perform one of these in our next lab.
   * `sudo cat /etc/shadow | grep tempuser`
 * Submit that entire output to Pilot (include the user name and all trailing `:::`
   * Reminder: plain text files only!!!
+* I recommend deleting the created user as well:
+  * `sudo userdel tempuser`
 
 ---
 
@@ -240,17 +242,30 @@ You (will) get hacked. Then what?
 
 ---
 
-# The incident
+# What happened
 
 * August 2012
 * 5pm iphone resets
 * phone power on and iphone is at setup screen
   * (backups etc were done nightly so no fear yet)
 * plug phone in to laptop to restore/recover
-  * notification on macbook of incorrect gmail credentials
+  * notification on macbook of incorrect credentials
   * macbook has new (unknown) 4 digit pin protection
 
-## What would you do?
+***What would you do?***
+
+---
+
+# What actually happened (all times are approximate)
+
+* Aug 2012
+* 4pm buys a toothbrush amazon.com
+* 4:30pm amazon account reset with unknown credit card and Mat Honan's address
+* 4:45pm me.com reset with last 4 of Mat Honan's CC and address
+* 4:47pm gmail.com reset with me.com
+* 4:50pm twitter.com reset with gmail.com
+* 4:55pm me.com and gmail.com accounts ***permanently deleted*** with all data
+* 5pm hacker brags on their newly acquired @mat handle of their hack 
 
 ---
 
@@ -268,8 +283,9 @@ These are the steps the attacker went through:
   * this confirmed that the gmail address is @mat
 
 * try to sign into that gmail address
-  * ***no 2fa!!!!  :(  :(  !!!!***
+  * ***no 2fa !!!  :( !!! (╯°□°)╯︵ ┻━┻  !!!***
   * account recovery is `m******@me.com`
+
 
 ---
 
@@ -279,13 +295,13 @@ These are the steps the attacker went through:
   * last 4 of your credit card
   * billing address
 
----
-
-# Lets go shopping!!
-
-* There is a way to trick amazon into giving up the last 4 digits of your CC
-  * Attacker orders an item through Amazon.com as the victim by adding a new CC!!!!
-  * Attacker then resets the amazon.com password by using the above malicious CC as an account recovery proof of identity
+* try to sign in with various Mat Honan emails
+  * finds the one that works
+  * crafts a purchase for a toothbrush ***using the hacker's credit card***
+  * amazon used to let you purchase save credit card to account without credentials
+    * spend money faster!!!
+  * buys toothbrush and delivers it to Mat Honan
+  * immediately calls amazon, recovers login with hackers credit card info
   * Attacker can now see last 4 of all CC in Amazon as well as billing addresses
 
 ---
@@ -311,4 +327,12 @@ These are the steps the attacker went through:
 * Know how to disable/re-enable the MFA
 * Be prepared to provide necessary information
 * Be aware of chained accounts / vulnerabilities
+
+---
+
+# Amazon's fault?
+
+* Yes
+* of course
+* in hindsight sounded like a great idea
 
