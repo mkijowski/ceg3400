@@ -1,12 +1,14 @@
 # Network Tools 
 
 * A reminder about ethics
-* Up till now
+* Up till now:
   * ping
-  * scapy
   * tcpdump
-* nmap
-* nc
+* Today:
+  * nmap
+  * nc
+* Later:
+  * Scapy
 
 ---
 
@@ -18,11 +20,10 @@
 
 ---
 
-# `ping` and `scapy`
+# `ping`
 
 * `ping` crafts a packet (ICMP, which is not TCP or UDP...) which requires a respnose
   * `ping` continues to listen for a response and provides metrics
-* `scapy` captures, crafts, manipulates, sends, and recieves packets via python
 
 ---
 
@@ -33,6 +34,13 @@ Very useful command for inspecting traffic on a network.
 * has many *filter* options to only capture desired traffic (or `!` ignore unwanted traffic)
 * typically installed everywhere
 * underpinning of graphical program Wireshark (uses same filters!)
+
+---
+
+# `Scapy` (later)
+
+* `scapy` captures, crafts, manipulates, sends, and recieves packets via python
+  * very advanced, but you need to understand what a packet "looks" like
 
 ---
 
@@ -57,4 +65,5 @@ Tool to inspect create sockets (application connections to an IP port).  Allows 
 simply connect to another host IP and port, or to bind to a port locally and listen.
 
 Think the `cat` command for network sockets.
+
 
