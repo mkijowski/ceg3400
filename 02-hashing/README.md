@@ -63,7 +63,7 @@ What is a collision???
 * verify the integrity of data (block chain, downloads, git commits, secure software)
 * digital signatures
 * as a part of verifying a given users *Authenticity* (a part of *Authentication*)
-* Proof-of-work (mining, defense against Denial of Service)
+* Proof-o'-work (mining, defense against Denial of Service)
 
 ---
 
