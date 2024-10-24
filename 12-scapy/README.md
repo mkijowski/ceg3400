@@ -3,7 +3,7 @@
 Lets do a deep dive into networking by looking at individual packets. 
 
 There is a graded *assignment* part of this guide, please find it in the pilot dropbox.  
-This assignment is due 10/31/23 at 11:59pm (Tuesday night!)
+This assignment is due 10/29/2024 at 11:59pm (Tuesday night!)
 
 ---
 
