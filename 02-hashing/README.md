@@ -13,6 +13,7 @@
 * Key Stretching
 * Proof of work
 * Lab 1 discussion
+* a new topic
 
 ---
 
