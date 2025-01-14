@@ -30,7 +30,7 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 11:00 AM - 12:20 PM in 355 Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 9:30 AM - 10:50 AM in 152c Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
@@ -177,7 +177,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Final Exam
 
 * In person required
-* Date: Thursday, December 12, 10:15 AM - 12:15 AM (in classroom, 355 Russ)
+* Date: Tuesday, April 29, 8:00 AM - 10:00 AM (in classroom, 152c Russ)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
