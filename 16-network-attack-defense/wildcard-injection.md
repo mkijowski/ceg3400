@@ -22,7 +22,7 @@ tar -cpf /home/ubuntu/backup.tar.gz *
 Remembering something that Kijowski once complained about in class, you
 realize that this script is likely vulnerable to a command injection.
 
-Your mission is to turn the `sudoless` user into a sudo user by injecting some malicious information into one of the exectuions of the above backup script.
+Your mission is to turn the `sudoless` user into a sudo user by injecting some malicious information into one of the executions of the above backup script.
 
 Some hints:
 
