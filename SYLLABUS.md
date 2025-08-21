@@ -178,7 +178,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Final Exam
 
 * In person required
-* Date: THursday, December 11, 10:15 AM - 12:15 PM (in classroom, 355 Russ)
+* Date: Thursday, December 11, 10:15 AM - 12:15 PM (in classroom, 355 Russ)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
