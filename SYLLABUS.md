@@ -30,14 +30,14 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 9:30 AM - 10:50 AM in 152c Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 11:00 AM - 12:20 PM in 355 Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
 * Prerequisites: minimum D in [CEG 2350: Operating Systems](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=95960)
 * Resource Requirements:
   * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are ~10 laptops available in the room
-    that are availalbe for use in the room.  If more than 15 students need a laptop please talk with the instructor.
+    that are availalbe for use in the room.  If more students need a laptop please talk with the instructor.
   * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
 
@@ -139,10 +139,10 @@ This outlines the basic expectations I will have for students in this course.
   * F < 60
 
 * Grade Composition / Evaluation
-  * 25% - Midterm + Final Examination
-  * 25% - Labs
-  * 25% - Quizzes
-  * 25% - In class activities
+  * 30% - Midterm + Final Examination
+  * 30% - Labs
+  * 10% - Quizzes
+  * 30% - In class activities
   * Instructor may alter the grade composition / evaluation at any time.  If altered
     students will always receive the highest grade possible (no one will receive a lower
     grade because of a change to the composition)
@@ -166,7 +166,8 @@ This outlines the basic expectations I will have for students in this course.
  like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. 
  Use of generative AI for lab writeups or other non-coding work in this course will be considered a violation of the university’s academic integrity policies.  
  If you have any questions about whether or not use of a particular tool or technology is allowed, check with your instructor first.
-
+ Always cite any generative AI use when permitted!
+  
 ---
 
 ### Midterm Exam
@@ -177,7 +178,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Final Exam
 
 * In person required
-* Date: Tuesday, April 29, 8:00 AM - 10:00 AM (in classroom, 152c Russ)
+* Date: THursday, December 11, 10:15 AM - 12:15 PM (in classroom, 355 Russ)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
