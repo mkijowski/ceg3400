@@ -1,19 +1,5 @@
 # Hashing
 
-## Topics covered hashing day 1
-
-* What is hashing really?
-* Common Hashing alghorithms
-
-## Topics covered day 2 (next week)
-
-* Class exercise
-* Attacks on Hashes
-* Salts and nonce
-* Key Stretching
-* Proof of work
-* Lab 1 discussion
-* a new topic
 
 ---
 
