@@ -83,6 +83,17 @@ Private key can decrypt messages from public. (Confidentiality)
 
 ---
 
+# Important commands
+
+* get all of the keys needed: `wget https://github.com/mkijowski/ceg3400/raw/refs/heads/master/06-keys-and-digital-signatures/data/3400-all-keys.gpg`
+* import all fo the keys needed: `gpg --import ./3400-all-keys.gpg`
+* check all keys: `gpg --list-keys`
+* check a single key: `gpg --list-key <email>`
+* check signatures on a single key: `gpg --list-sigs <email>
+* export a key (or all keys): `gpg --export --armor <email>`
+
+---
+
 # Lets party!
 
 * Convince your table mates that you are the person with the given email and share your fingerprint!
