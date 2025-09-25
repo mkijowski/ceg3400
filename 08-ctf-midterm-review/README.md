@@ -35,13 +35,6 @@ Use the clues to recover them.
 
 ---
 
-### Flag 0 - the past
-
-Flag 0 was ran some time in the past, when Airman Joe had a seat at the table, 
-protecting the perimeter of his little round table of comrades. 
-
----
-
 ### Flag 1 - readme
 
 The first flag is stored in a file called **readme** located in the home 
