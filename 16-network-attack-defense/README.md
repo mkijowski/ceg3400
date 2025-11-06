@@ -144,7 +144,7 @@ Magecart (2018)
 
 A sophisticated attacker may use both in conjunction to perform advacned attacks!!!
 
-This may be able to get around CSRF tokens if a sufficiently advacned script captures the unique CSRF identifier and sends it to an attacker...
+This may be able to get around CSRF tokens if a sufficiently advanced script captures the unique CSRF identifier and sends it to an attacker...
 
 ---
 
@@ -167,8 +167,8 @@ Be sure to have good policies surrounding hiring and terminiation.
 Endpoint Protection 
 
 * Should have been covered in host security
-* started as virus scan
-* has evolved to cover a lot more ground at the endpoint
+* Started as virus scan
+* Has evolved to cover a lot more ground at the endpoint
 
 ---
 
@@ -199,6 +199,4 @@ Matt begins yelling at the moon...
 * *Managed*
 * Security as a Service
 * Lets a security team blame someone else
-
-
 
