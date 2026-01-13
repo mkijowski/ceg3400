@@ -129,7 +129,7 @@ This outlines the basic expectations I will have for students in this course.
 * Assigned reading and viewing must be performed prior to class.
 * Quizzes are given at random.
 * All written assignments will be submitted via ***plain text*** documents in markdown format unless otherwise specified.
-* Students are permitted 1 unexcused 0 on a Lab.  Since labs are a major focus of this course missing more than 1 will result in a 0.
+* Students are permitted 1 unexcused 0 on a Lab.  Since labs are a major focus of this course missing more than 1 will result in a 0 in this course.
 * Students are permitted 3 unexcused 0's on NON-Lab graded assignments (quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
 * Failure to take the Midterm exam or Final exam will result in a 0 in this course.
 * Grading is left up to the instructor.  Students will receive no lower than the below, but the instructor will adjust these as necessary. 
