@@ -22,7 +22,7 @@
 * `@Matt Kijowski` on Discord
 * 447 Russ
 * Office hours: Mostly by appointment.  Will be in my office or around the building  T/Th 2pm-3pm (ping me on Discord if you cannot find me).
-* Will be available in Discord and Webex for remote meetings
+* Will be available in Discord and Webex for remote meetings if needed (request Webex ahead of time).
 
 ---
 
@@ -30,7 +30,7 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 11:00 AM - 12:20 PM in 355 Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 9:30 AM to 10:50 AM in 152c Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
@@ -93,7 +93,7 @@ This outlines the basic expectations I will have for students in this course.
 * Communicate effectively
   * Email - formal requests or notifications that need a 1 business day turnaround
   * Discord - synchronous communications with myself and students (also check pins)
-  * Github - for coursework, ***if its not in github, it didnt happen***
+  * Github - for coursework, ***if it is not in github, it didnt happen***
     * put ALL work in gituhb, extra files, notes, issues, etc.
   * Communicate *EARLY* and *OFTEN*
 * Practice effective learning strategies
@@ -101,9 +101,9 @@ This outlines the basic expectations I will have for students in this course.
   * Begin labs early
   * ***if its not in github, it didnt happen***
 * All work is to be your own
-  * You can still collaborate with other students about assignments (use Discord and when in d    oubt just ask me!)
-  * Generative AI (ChatGPT, etc.) is not to be used on any lab or assignment writeup
-  * If using Generative AI on coding assignments document all use and include in your writeup
+  * You can still collaborate with other students about assignments (use Discord and when in doubt just ask me!)
+  * Generative AI (ChatGPT, etc.) is not to be used on any lab or assignment writeup unless explicitly permitted
+  * If using Generative AI on coding assignments document/cite all use and include in your writeup (please include prompts!)
 
 ---
 
@@ -111,7 +111,7 @@ This outlines the basic expectations I will have for students in this course.
 
 * [CS/CEG Discord Server](https://discord.gg/pMUMzTt)
   * Will be used for office hours
-  * Will be available 24/7 for students to collaborate with each other
+  * Will be available 24/7 for students to collaborate with each other outside of office hours
 * Webex
   * May be used via my personal webex room for course lectures remotely (if students are remote)
   * Will be used for 1v1 communication with instructor
@@ -129,7 +129,8 @@ This outlines the basic expectations I will have for students in this course.
 * Assigned reading and viewing must be performed prior to class.
 * Quizzes are given at random.
 * All written assignments will be submitted via ***plain text*** documents in markdown format unless otherwise specified.
-* Students are permitted 3 unexcused 0's on graded assignments (Labs, quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
+* Students are permitted 1 unexcused 0 on a Lab.  Since labs are a major focus of this course missing more than 1 will result in a 0.
+* Students are permitted 3 unexcused 0's on NON-Lab graded assignments (quizzes, or in class activities).  If you miss more than 3 assignments without express permission from the instructor you will recieve a 0 in this course.
 * Failure to take the Midterm exam or Final exam will result in a 0 in this course.
 * Grading is left up to the instructor.  Students will receive no lower than the below, but the instructor will adjust these as necessary. 
   * A = 90 - 100
@@ -139,10 +140,10 @@ This outlines the basic expectations I will have for students in this course.
   * F < 60
 
 * Grade Composition / Evaluation
-  * 30% - Midterm + Final Examination
-  * 30% - Labs
+  * 20% - Midterm + Final Examination
+  * 50% - Labs
   * 10% - Quizzes
-  * 30% - In class activities
+  * 20% - In class activities
   * Instructor may alter the grade composition / evaluation at any time.  If altered
     students will always receive the highest grade possible (no one will receive a lower
     grade because of a change to the composition)
@@ -162,7 +163,7 @@ This outlines the basic expectations I will have for students in this course.
 
 * Generative AI policy
 
- You are not permitted to use generative AI tools for any non-coding work for this course. This includes the use of popular tools 
+ You are ***NOT*** permitted to use generative AI tools for any non-coding work for this course. This includes the use of popular tools 
  like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. 
  Use of generative AI for lab writeups or other non-coding work in this course will be considered a violation of the university’s academic integrity policies.  
  If you have any questions about whether or not use of a particular tool or technology is allowed, check with your instructor first.
@@ -178,7 +179,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Final Exam
 
 * In person required
-* Date: Thursday, December 11, 10:15 AM - 12:15 PM (in classroom, 355 Russ)
+* Date: Tuesday, April 28, 8:00 AM - 10:00 AM (in classroom)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
