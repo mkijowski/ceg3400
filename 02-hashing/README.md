@@ -32,7 +32,29 @@ A fancy algorithm that converts a variable length input data to a fixed length o
 * output data reveals ***NO*** information about the input data
 * must be **collision resistant**
 
-What is a collision???
+---
+
+# File names
+
+![File Names (git is sometimes nice)](./img/file-name-comic.jpg)
+
+---
+
+# Data (again)
+
+![Files and Data](./img/file-metadata.jpg)
+  
+---
+
+# Again
+
+
+* same input == same output
+* different input == ***MASSIVE*** likelihood of different output
+* output data reveals ***NO*** information about the input data
+* must be **collision resistant**
+
+What is a "collision"?
 
 ---
 
