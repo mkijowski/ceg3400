@@ -58,6 +58,18 @@ What is a "collision"?
 
 ---
 
+# Ship
+
+![Ship](./img/ship.jpg)
+
+---
+
+# Plane
+
+![Plane](./img/plane.jpg)  
+
+---
+
 # Hashing algorithms
 
 | Hashing Algorithm | Hash size (bits) | Hash size (hex length) | Collision-resistant |
