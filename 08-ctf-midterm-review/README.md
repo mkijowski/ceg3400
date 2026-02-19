@@ -50,7 +50,9 @@ otherwise you need to specify the whole path to the file like this:
 
 ---
 
-### Flag 2- /home sweet /home
+### Flag 2 - /home sweet /home
+
+***Sometimes this flag is not visible... Oops!  Just move on to `Flag 3`***
 
 The next flag is in a file called **readme** but this file is "up" one directory in `/home`.
 I don't care how you get there, just get the flag ;)
@@ -110,19 +112,7 @@ need to tell linux *where* the program is...
 
 ---
 
-### Flag 7 - It wasn't me...
-
-You will need to use the **setuid** program in your home directory for this challenge.  
-The next flag is stored in a file named **readme** in airman **Bob's** home directory 
-`/home/airmanbob/bobs.secret`.
-
-#### Helpful commands
-
-`whoami, cat`
-
----
-
-### Flag 8 - lost
+### Flag 7 - lost
 
 This flag is hidden somewhere in the **lost** directory in a file that is 
 exactly 503 bytes.
@@ -133,7 +123,7 @@ exactly 503 bytes.
 
 ---
 
-### Flags 9 & 10 - alike
+### Flags 8 & 9 - alike
 
 Two files in the **alike** directory have the same contents.  These two flags
 are the names of the two files with identical contents.
@@ -141,6 +131,18 @@ are the names of the two files with identical contents.
 #### Helpful commands
 
 `md5sum, diff`
+
+---
+
+### Flag 10 - It wasn't me...
+
+You will need to use the **setuid** program in your home directory for this challenge.  
+The next flag is stored in a file named **readme** in airman **Bob's** home directory 
+`/home/airmanbob/bobs.secret`.
+
+#### Helpful commands
+
+`whoami, cat`
 
 ---
 
