@@ -57,7 +57,6 @@ otherwise you need to specify the whole path to the file like this:
 The next flag is in a file called **readme** but this file is "up" one directory in `/home`.
 I don't care how you get there, just get the flag ;)
 
-***This flag disappeared, jsut write in FU+BAR for flag two in your assignment***
 
 #### Helpful commands
 
