@@ -28,4 +28,6 @@ Some hints:
 
 * Think back on the the `rm *` example in class
 * A simple way to gain sudo for a user is to add a line to the `/etc/sudoers` file
+* You will need to write an executable script in your home directory that does the heavy lifting (something bad)
+* You will need a way to pause the tar file creation, maybe with a `--checkpoint=1`  (check the `man tar` page)
 
