@@ -21,7 +21,7 @@
 * matthew.kijowski@wright.edu & matthewkijowski@gmail.com
 * `@Matt Kijowski` on Discord
 * 447 Russ
-* Office hours: Mostly by appointment.  Will be in my office or around the building  T/Th 2pm-3pm (ping me on Discord if you cannot find me).
+* Office hours: Mostly by appointment.  Will be in my office or around the building  T/Th 3pm-4pm (ping me on Discord if you cannot find me).
 * Will be available in Discord and Webex for remote meetings if needed (request Webex ahead of time).
 
 ---
@@ -30,7 +30,7 @@
 
 * [CEG 3400 Introduction to Cyber Security](https://catalog.wright.edu/preview_course_nopop.php?catoid=17&coid=100732)
 * Credit hours: 3
-* Meeting time/place: Tuesdays & Thursdays, 9:30 AM to 10:50 AM in 152c Russ Engineering
+* Meeting time/place: Tuesdays & Thursdays, 11:00 AM to 12:20 PM in 152c Russ Engineering
 * Course Description: Focuses on educating students with essential security knowledge in 
   modern cyber space. Covers security issues across all layers of cyber space, including 
   data, host, infrastructure, human, and economics.
@@ -38,7 +38,7 @@
 * Resource Requirements:
   * Personal Computer: Every student attending is required to have administrative access to a computer for this course (desktop or laptop).  There are ~10 laptops available in the room
     that are availalbe for use in the room.  If more students need a laptop please talk with the instructor.
-  * Textbook (Recommended) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
+  * Textbook (Recommended, not required) : Security+ Guide to Network Security Fundamentals, 7th Edition, 
     Mark Ciampa, Cengage 2020 (6th edition may still be useful)
 
 ---
@@ -111,7 +111,7 @@ This outlines the basic expectations I will have for students in this course.
 
 * [CS/CEG Discord Server](https://discord.gg/pMUMzTt)
   * Will be used for office hours
-  * Will be available 24/7 for students to collaborate with each other outside of office hours
+  * Will be available 24/7 for students to collaborate with *each other* outside of office hours
 * Webex
   * May be used via my personal webex room for course lectures remotely (if students are remote)
   * Will be used for 1v1 communication with instructor
@@ -155,6 +155,8 @@ This outlines the basic expectations I will have for students in this course.
  the assignment and the offending student(s) conduct being sent to pertinent Student Affairs 
  committee.  *This includes work performed as a group, you must submit your own answers and evidence of code/command executions, no exceptions!*
 
+ Academic integrity violations during an exam will result in immediately failing the course.
+
 * Sick policy
 
  Students are encouraged to stay home if they are sick.  All
@@ -167,7 +169,7 @@ This outlines the basic expectations I will have for students in this course.
  like ChatGPT, Midjourney, GitHub Co-Pilot, as well as all other tools built on generative AI technologies. 
  Use of generative AI for lab writeups or other non-coding work in this course will be considered a violation of the university’s academic integrity policies.  
  If you have any questions about whether or not use of a particular tool or technology is allowed, check with your instructor first.
- Always cite any generative AI use when permitted!
+ Always cite any generative AI use when permitted, if AI use was performed without a citation you will recieve a 0 for the assignment on the first offence, and an F in the class on the second.
   
 ---
 
@@ -179,7 +181,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Final Exam
 
 * In person required
-* Date: Tuesday, April 28, 8:00 AM - 10:00 AM (in classroom)
+* Date: Thursday, December 10, 10:15 AM - 12:15 PM (in classroom)
 
 The final exam will be comprehensive, covering all content presented throughout the
 semester.  All students are expected to take the exam at this time.
