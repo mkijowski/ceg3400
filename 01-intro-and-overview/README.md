@@ -1,3 +1,12 @@
+---
+title: "A Clear and Present Danger"
+author: "Matt Kijowski"
+date: today
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # Lecture 1 - A Clear and Present Danger
 
 ![iceberg](./imgs/iceberg.jpg)
@@ -40,7 +49,7 @@ Sure did take a while to bring up the human beings in all this...
 
 # What is the CIA triad [Information Security](https://en.wikipedia.org/wiki/Information_security) model?
 
-![CIA triad](./imgs/CIA-Triad-confidentiality-integrity-availability.png){height=90%}
+![CIA triad](./imgs/CIA-Triad-confidentiality-integrity-availability.png){height=80%}
 
 ---
 
@@ -104,15 +113,15 @@ Cannot guarantee our previous slide.  Lets set some more realistic goals:
 
 ---
 
-# What is Risk
+# What does an attack look like?
 
-![Cyber Risk](./imgs/threat-vulnerability-risk.png){height=50%}
+![Cyber Attack](./imgs/threat-vulnerability-risk.png){height=50%}
 
 The intersection of a vulnerability, a threat, and an opportunity (or availability).
 
 ---
 
-Even more specifically, a risk must have an impact, meaning it results in the 
+Even more specifically, an attack must have an impact, meaning it results in the 
 loss of confidentiality, integrity, or availability of our data, OR the loss
 of something else we care about (loss of life, income, asset, value, etc.) 
 
@@ -156,9 +165,11 @@ APAC - 204
 
 *As reported by FireEye, 2018*
 
+Global average in 2024 - 122
+
 ---
 
-# Common Attack Vectors
+# Common Attack Vectors (not exhaustive)
 
 * Email
 * Social Media
@@ -177,8 +188,7 @@ APAC - 204
 1. Information gathering:
 
   * Identify data and assets
-  * Identify threats
-  * Identify vulnerabilities
+  * Identify threats and vulnerabilities
   * Identify impacts
 
 2. Evaluate Risk
@@ -187,7 +197,6 @@ APAC - 204
 
   * avoid
   * mitigate
-  * share
   * accept
 
 ---
@@ -196,9 +205,8 @@ APAC - 204
 
 Does anyone notice any problems or flaws with this cycle?
 
-* 7.9 Billion people
-* 21.5 billion interconnected devices
-* ![cve-per-month](./imgs/cves-per-year-month.png)
+  * 7.9 Billion people & 21.5 billion interconnected devices
+![cve-per-month](./imgs/cves-per-year-month.png){height=80%}
 
 ---
 
@@ -208,13 +216,11 @@ Does anyone notice any problems or flaws with this cycle?
 
 2. Get your environment ready (install WSL Ubuntu and Mobaxterm)
 
-1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8) 
+1. [Watch](https://www.youtube.com/watch?v=2BldESGZKB8) https://www.youtube.com/watch?v=2BldESGZKB8
 
-2. Read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (read the intro and overview)
+2. Read what a [hash function](https://en.wikipedia.org/wiki/Hash_function) is. (read the intro and overview) https://en.wikipedia.org/wiki/Hash_function
 
 3. Be familiar with using `md5sum` and `sha256sum` (be able to hash a file or string)  Hint:  `sha256sum -t "test"` should be the same as `sha256sum filename` if the contents of the filename is just the string text
-
-4. Read this: https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/#Attacking-Unsalted-Passwords
 
 ### Discuss in Discord if you hit any walls!
 
