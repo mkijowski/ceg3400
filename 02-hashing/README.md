@@ -1,5 +1,5 @@
 ---
-title: "A Clear and Present Danger"
+title: "Cryptographic Hashing"
 author: "Matt Kijowski"
 date: 8/27/26
 theme: "metropolis"
