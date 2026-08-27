@@ -176,7 +176,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Midterm Exam
 
 * In person required
-* Date: February 26, 2026
+* Date: TBD will be announnced in class at least 1 week prior to
 
 ### Final Exam
 
