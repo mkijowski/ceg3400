@@ -1,3 +1,13 @@
+---
+title: "A Clear and Present Danger"
+author: "Matt Kijowski"
+date: today
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
+
 # Hashing
 
 Day 1: explain git.
@@ -13,7 +23,7 @@ Day 2: the rest
 
 Key tenets of a hash algorithm:
 
-1. ***Fast***, must not take a lot of resources or time to compute
+1. ***Fast***, must not take a lot of resources or time to compute (we will violate this rule later...)
 
 2. ***Irreversible***, must not be able to retrieve the original data from the resulting hash (one way transformation)
 
@@ -23,7 +33,7 @@ Key tenets of a hash algorithm:
 
 ---
 
-# In english
+# In English
 
 A fancy algorithm that converts a variable length input data to a fixed length output data with the following constraints:
 
@@ -79,10 +89,11 @@ What is a "collision"?
 | sha512 | 512 | 128 | yes |
 | NTLM | 128 | 32 | no |
 
+*Note: "Collision-resistant" should be "no known collisions currently" in the above chart*
+
 ---
 
-# What is Hashing used for:
-
+# What is Hashing used for
 
 * verify the integrity of data (block chain, downloads, git commits, secure software)
 * digital signatures
@@ -91,12 +102,12 @@ What is a "collision"?
 
 ---
 
-# Follow along (in `bash`) for some data science fun:
+# Follow along (in `bash`) for some data science fun
 
 What is the difference between the following:
 
 * `echo "Hi!"`
-* `printf "Hi!"'`  <----- Hint: Use this one for the exercise
+* `printf "Hi!"`  <----- Hint: Use this one for the exercise
 
 What do the following do?
 
@@ -113,7 +124,7 @@ Now about the quiz data, can we reverse our hash?
 * campus W-number
 * campus UID
 * Social Security Number
-* First initial Last name combo ie. `MKijowski`
+* First initial Last name combo i.e. `MKijowski`
 
 ---
 
@@ -138,7 +149,7 @@ Now about the quiz data, can we reverse our hash?
 Both added to data prior to the hashing function to increase uniqueness.  Used for different reasons though.
 
 * Salts increase complexity and prevent several known attacks on hash values (dictionary and rainbow table attacks)
-* Nonce's are unique (number used only once) and are used to prevent replay attacks (cannot use same nonce) and in proof of work
+* Nonces are unique (number used only once) and are used to prevent replay attacks (cannot use same nonce) and in proof of work
 * These do not increase any guarantee of integrity!!
 
 ---
@@ -149,7 +160,7 @@ Suppose an attacker has the salts and hash values and can guess at the original 
 
 To make things harder for an attacker, we can simply apply the hashing algorithm to the output of the first.
 
-Do this multiple times to *stretch* (lengthen) the time it takes to attack the hash using common disctionary attacks.
+Do this multiple times to *stretch* (lengthen) the time it takes to attack the hash using common dictionary attacks.
 
 ---
 
@@ -177,16 +188,29 @@ Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
 
 * `data/` : folder containing data for use in this lab
 * `miner/` : folder for your mining code
-* `LAB1-INSTRUCTIONS.md` : mardown file containing lab instructions
+* `LAB1-INSTRUCTIONS.md` : markdown file containing lab instructions
 * `README.md` : markdown file for your answers and lab writeup.  This is the file I am grading (as well as other requested files)
 * `coins.txt` : file with your nonce/word combos, no hashes in this file please!
-
 ---
 
 # Markdown Style
 
-* Answers/ responses should be on a new line and not require scrolling around the page (be carefull of code blocks).
+* Answers/ responses should be on a new line and not require scrolling around the page (be careful of code blocks).
 * Check the style guide in the course repository for more details!!
+
+---
+
+
+# Recap
+
+**Hashing** gives you: fixed-size, deterministic, one-way fingerprints of data — with the avalanche effect making them collision-resistant *(for now)*.
+
+* **Integrity & auth** — verify data hasn't changed, prove you know a secret
+* **Attacks** — brute force, dictionary, rainbow table, pass-the-hash, collision
+* **Defenses** — salt (kills precomputed tables) + nonce (kills replay) + stretching (slows brute force)
+* **Passwords & files** — fast hash for integrity, *slow* hash (`bcrypt`/`scrypt`/`Argon2`) for secrets
+
+Now go build a miner and don't leak your coins.
 
 ---
 
@@ -199,8 +223,7 @@ Example: include a nonce that hashes to *X* number of leading 0's (see Hashcash)
 # Homework
 
 * Research some effective and ineffective password strategies (google it...)
-* Make a new linux user with a weak password (pleased dont use the top 10)
-* Copy the above users weak password hash (corresponding line in `/etc/shadow`) and submit to Pilot.
+* Make a new Linux/WSL user with a weak password (please do not use one of the top 10 passwords)
+* Copy the above users weak password hash (their corresponding line in `/etc/shadow`) and submit to Pilot.
   * It should look something like this: `mynewuser2:$y$j9T$hBy.nN91qFxXxCMP...`
 * Get started on your lab!!!
-
