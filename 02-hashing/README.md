@@ -1,7 +1,7 @@
 ---
 title: "A Clear and Present Danger"
 author: "Matt Kijowski"
-date: today
+date: 8/27/26
 theme: "metropolis"
 colortheme: "seahorse"
 fonttheme: "professionalfonts"
