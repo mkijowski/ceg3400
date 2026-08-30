@@ -1,3 +1,13 @@
+---
+title: "Cryptographic Hashing"
+author: "Matt Kijowski"
+date: 9/1/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
+
 # Authentication
 
 * Passwords
@@ -37,6 +47,10 @@ Verifying the identity of a user or process
 * "Something you know"
 * Different ideas of strong versus weak passwords
 * `12345`
+* Should ***NEVER*** be stored plain-text
+  * salt and hash passwords before storing
+  * be sure the transmission / processes for authentication do not leak information
+  * probably best not to re-invent the wheel on this one...
 
 ---
 
@@ -87,9 +101,13 @@ response from authenticator / input).
 
 ---
 
-# This slide is bad...  
+# Breaking into Matt Kijowski's vehicle
 
-But is a good example of an online password attack that does NOT require the internet.
+---
+
+# The *ONLINE* attack
+
+I know this is bad, but this attack does NOT require the internet.
 
 ```
  9 9 9 9 1 1 1 1 1 3 1 1 1 1 5 1 1 1 1 7 1 1 1 1 9 1 1 1 3 3 1 1 1 3 5 1 1 1 3 
@@ -156,10 +174,10 @@ We will perform one of these in our next lab.
 
 # Authentication defenses
 
-* Password managers
+* Password managers (helps ensure length, complexity, AND uniqueness)
 * Multi-Factor Authentication (MFA / 2FA)
 * Keys/tokens (PKI)
-* Biometrics
+* Biometrics (when used as MFA)
 * Policies and procedures
 
 ---
@@ -167,6 +185,10 @@ We will perform one of these in our next lab.
 # Password Managers
 
 * Allow for much stronger passwords
+* Traits of a **stronger** password
+  * unique (to you) 
+  * longer
+  * complex
 * Convenient for users
   * Until they are ***very*** inconvenient...
 * Helps prevent easily guessable passwords
