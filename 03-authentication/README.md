@@ -28,6 +28,7 @@ fonttheme: "professionalfonts"
   * - Matt Kijowski, Jan 28, 2025
   * - Matt Kijowski, Sep 2, 2025
   * - Matt Kijowski, Jan 22, 2026
+  * - Matt Kijowski, Sep 1, 2026
 
 ---
 
