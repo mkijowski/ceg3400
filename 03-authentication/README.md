@@ -1,7 +1,7 @@
 ---
 title: "Authentication"
 author: "Matt Kijowski"
-date: 9/1/26
+date: 9/1/26 and 9/4/26
 theme: "metropolis"
 colortheme: "seahorse"
 fonttheme: "professionalfonts"
