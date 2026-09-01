@@ -1,5 +1,5 @@
 ---
-title: "Cryptographic Hashing"
+title: "Authentication"
 author: "Matt Kijowski"
 date: 9/1/26
 theme: "metropolis"
