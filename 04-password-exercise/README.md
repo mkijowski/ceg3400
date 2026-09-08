@@ -1,9 +1,22 @@
+---
+title: "Password cracking exercise"
+author: "Matt Kijowski"
+date: 9/8/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # Password Cracking
 
-Please find the details of this exercise in the assigned lab 2:
+* Please find the details of this exercise in the assigned lab 2.
+* NOTE: GitHub lab invites expire before the due date!!!!
+* Additional note: the `wget` commands in your GitHub repo are wrong, please see pilot news post!
 
-Spring 2025 lab 2 assignemnt link is in pilot and here: 
-https://classroom.github.com/a/n1GyJ1sn
+---
 
-If it is not spring 2025 please dont use the above link...  I'll update this eventually before the assignment date ;)
+# Slide for Matt's terrible drawings
+
+
+---
 
