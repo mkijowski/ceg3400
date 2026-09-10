@@ -1,6 +1,13 @@
-# Encryption
+---
+title: "Encryption"
+author: "Matt Kijowski"
+date: 9/10/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
 
-## Todays topics
+# Todays topics
 
 Hey, check out these slides...
 
