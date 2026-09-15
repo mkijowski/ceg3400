@@ -1,3 +1,12 @@
+---
+title: "Keys and Digital Signatures"
+author: "Matt Kijowski"
+date: 9/15/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # Today's Agenda
 
 * Review
