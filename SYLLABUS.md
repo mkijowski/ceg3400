@@ -176,7 +176,7 @@ This outlines the basic expectations I will have for students in this course.
 ### Midterm Exam
 
 * In person required
-* Date: TBD will be announnced in class at least 1 week prior to
+* Date: October 1, during normal class time
 
 ### Final Exam
 
