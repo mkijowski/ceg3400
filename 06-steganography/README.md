@@ -1,3 +1,12 @@
+---
+title: "Keys and Digital Signatures"
+author: "Matt Kijowski"
+date: 9/22/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # [Steganography](https://en.wikipedia.org/wiki/Steganography)
 
 The art of hiding in plain sight.
