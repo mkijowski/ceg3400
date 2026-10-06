@@ -12,7 +12,7 @@ fonttheme: "professionalfonts"
 
 Day 1: explain git.
 
-Day 2: the rest
+Day 2: the rest ;)
 
 ---
 
