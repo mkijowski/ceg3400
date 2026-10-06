@@ -1,3 +1,12 @@
+---
+title: "Networking 101"
+author: "Matt Kijowski"
+date: 10/6/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # Networking (Host perspective)
 
 * A note about ethics
