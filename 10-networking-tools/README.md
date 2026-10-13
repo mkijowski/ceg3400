@@ -1,3 +1,12 @@
+---
+title: "Networking Tools"
+author: "Matt Kijowski"
+date: 10/13/26
+theme: "metropolis"
+colortheme: "seahorse"
+fonttheme: "professionalfonts"
+---
+
 # Network Tools 
 
 * A reminder about ethics
