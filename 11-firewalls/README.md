@@ -91,14 +91,14 @@ COMMIT
   * All packets are allowed through except those that fit the defined blacklist.
   * Pros: flexible, less likely to impact services.
   * Cons: unexpected malicious traffic makes it through.
-  * ***Lab Task 3***
+  * ***Lab Task 2***
 
 ### **Whitelist** approach (default-deny)
   
   * All packets are dropped or rejected unless specifically allowed.
   * Pros: safer network
   * Cons: unexpected important traffic gets dropped or rejected.
-  * ***Lab Task 4***
+  * ***Lab Task 3***
 
 ---
 
