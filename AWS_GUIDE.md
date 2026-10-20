@@ -21,7 +21,9 @@
    - You'll need this for Connecting to the AWS Environment (below)
 9. Click **AWS** which should have a green dot next to it located on the left
    - This will take you to your AWS Console for your account. Now the fun begins.
-10. In a new tab, enter the following URL in the browser (or click link to open): <a href="https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=ceg2350&templateURL=https:%2F%2Fwsu-cecs-cf-templates.s3.us-east-2.amazonaws.com%2Fcourse-templates%2Fceg2350.yml" target="_blank">https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=ceg2350&templateURL=https:%2F%2Fwsu-cecs-cf-templates.s3.us-east-2.amazonaws.com%2Fcourse-templates%2Fceg2350.yml</a>
+10. In a new tab, enter the following URL in the browser (or click link to open): 
+
+[CEG 3400 CloudFormation link](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/new?stackName=ceg3400Lab&templateURL=https:%2F%2Fwsu-cecs-cf-templates.s3.us-east-2.amazonaws.com%2Fcourse-templates%2Fceg3400-mek.yml)
 
    - On the first menu, click Next
    - On the second menu, under Parameters, under Key Name, select `vockey`
