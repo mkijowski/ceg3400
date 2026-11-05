@@ -8,7 +8,7 @@
 
 ---
 
-You have "acquired" access to a linux system as a non priveleged user
+You have "acquired" access to a linux system as a non-privileged user
 named `sudoless`.  After loitering around on the system you find out that
 the administrator has set up a trivial home directory backup script that runs
 every minute.  The script looks like this:
@@ -26,8 +26,15 @@ Your mission is to turn the `sudoless` user into a sudo user by injecting some m
 
 Some hints:
 
-* Think back on the the `rm *` example in class
+* Think back on the `rm *` example in class
 * A simple way to gain sudo for a user is to add a line to the `/etc/sudoers` file
 * You will need to write an executable script in your home directory that does the heavy lifting (something bad)
 * You will need a way to pause the tar file creation, maybe with a `--checkpoint=1`  (check the `man tar` page)
 
+---
+
+## After you get sudo
+
+* Why did this work?  Who ran the backup script, and who controlled the file names it saw?
+* How would you rewrite the backup script so it is not vulnerable?
+* How could the administrator have *detected* this attack (think back to HIDS and file integrity monitoring)?
